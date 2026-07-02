@@ -1,0 +1,41 @@
+{
+  "id": "mod-linux-shell",
+  "slug": "module-linux-shell",
+  "title": "Linux 与 Shell 基础",
+  "subtitle": "面向开发运维和Ubuntu使用者",
+  "description": "面向编程学习者计算机专业学生后端开发运维开发数据分析和准备使用Ubuntu环境的人系统学习Linux文件系统常用命令权限进程软件包Shell脚本日志网络命令环境变量和开发环境配置的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "Linux",
+    "Ubuntu",
+    "Shell",
+    "Bash",
+    "命令行",
+    "权限",
+    "进程",
+    "自动化脚本"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🐧",
+  "repoUrl": "https://github.com/openskill-galaxy/module-linux-shell",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 108,
+    "knowledgePoints": 712,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 23,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 199
+  }
+}

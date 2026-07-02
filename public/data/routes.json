@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "lx-route-01",
+    "slug": "7天Linux入门",
+    "title": "7天Linux入门",
+    "description": "7天Linux入门",
+    "summary": "7天Linux入门",
+    "targetUser": "入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-02",
+    "slug": "14天命令精通",
+    "title": "14天命令精通",
+    "description": "14天命令精通",
+    "summary": "14天命令精通",
+    "targetUser": "命令",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-03",
+    "slug": "21天Shell编程",
+    "title": "21天Shell编程",
+    "description": "21天Shell编程",
+    "summary": "21天Shell编程",
+    "targetUser": "Shell",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-04",
+    "slug": "30天Linux管理",
+    "title": "30天Linux管理",
+    "description": "30天Linux管理",
+    "summary": "30天Linux管理",
+    "targetUser": "管理",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-05",
+    "slug": "45天Linux运维",
+    "title": "45天Linux运维",
+    "description": "45天Linux运维",
+    "summary": "45天Linux运维",
+    "targetUser": "运维",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-06",
+    "slug": "60天嵌入式",
+    "title": "60天嵌入式",
+    "description": "60天嵌入式",
+    "summary": "60天嵌入式",
+    "targetUser": "嵌入式",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-07",
+    "slug": "文件命令专项",
+    "title": "文件命令专项",
+    "description": "文件命令专项",
+    "summary": "文件命令专项",
+    "targetUser": "文件",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-08",
+    "slug": "文本处理专项",
+    "title": "文本处理专项",
+    "description": "文本处理专项",
+    "summary": "文本处理专项",
+    "targetUser": "文本",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-09",
+    "slug": "权限专项",
+    "title": "权限专项",
+    "description": "权限专项",
+    "summary": "权限专项",
+    "targetUser": "权限",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-10",
+    "slug": "进程专项",
+    "title": "进程专项",
+    "description": "进程专项",
+    "summary": "进程专项",
+    "targetUser": "进程",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-11",
+    "slug": "Shell脚本专项",
+    "title": "Shell脚本专项",
+    "description": "Shell脚本专项",
+    "summary": "Shell脚本专项",
+    "targetUser": "脚本",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-12",
+    "slug": "网络命令专项",
+    "title": "网络命令专项",
+    "description": "网络命令专项",
+    "summary": "网络命令专项",
+    "targetUser": "网络",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-13",
+    "slug": "定时任务专项",
+    "title": "定时任务专项",
+    "description": "定时任务专项",
+    "summary": "定时任务专项",
+    "targetUser": "crontab",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-14",
+    "slug": "面试专项",
+    "title": "面试专项",
+    "description": "面试专项",
+    "summary": "面试专项",
+    "targetUser": "面试",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-15",
+    "slug": "期末冲刺",
+    "title": "期末冲刺",
+    "description": "期末冲刺",
+    "summary": "期末冲刺",
+    "targetUser": "期末",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-16",
+    "slug": "命令复习",
+    "title": "命令复习",
+    "description": "命令复习",
+    "summary": "命令复习",
+    "targetUser": "复习",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-17",
+    "slug": "脚本复习",
+    "title": "脚本复习",
+    "description": "脚本复习",
+    "summary": "脚本复习",
+    "targetUser": "脚本复习",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-18",
+    "slug": "Ubuntu配置",
+    "title": "Ubuntu配置",
+    "description": "Ubuntu配置",
+    "summary": "Ubuntu配置",
+    "targetUser": "Ubuntu",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-19",
+    "slug": "网络排错",
+    "title": "网络排错",
+    "description": "网络排错",
+    "summary": "网络排错",
+    "targetUser": "网络排错",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-20",
+    "slug": "系统安全",
+    "title": "系统安全",
+    "description": "系统安全",
+    "summary": "系统安全",
+    "targetUser": "安全",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-21",
+    "slug": "服务器部署",
+    "title": "服务器部署",
+    "description": "服务器部署",
+    "summary": "服务器部署",
+    "targetUser": "部署",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-22",
+    "slug": "Docker入门",
+    "title": "Docker入门",
+    "description": "Docker入门",
+    "summary": "Docker入门",
+    "targetUser": "Docker",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-23",
+    "slug": "Linux大总结",
+    "title": "Linux大总结",
+    "description": "Linux大总结",
+    "summary": "Linux大总结",
+    "targetUser": "总结",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习Linux 入门与 Ubuntu 环境",
+        "courseId": "lx-course-01",
+        "lessonId": "lx-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习文件系统与目录结构",
+        "courseId": "lx-course-02",
+        "lessonId": "lx-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习文件与目录操作命令",
+        "courseId": "lx-course-03",
+        "lessonId": "lx-lesson-013"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习文本查看、搜索与处理",
+        "courseId": "lx-course-04",
+        "lessonId": "lx-lesson-024"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习用户、用户组与权限",
+        "courseId": "lx-course-05",
+        "lessonId": "lx-lesson-034"
+      }
+    ],
+    "recommendedCourseIds": [
+      "lx-course-01",
+      "lx-course-02",
+      "lx-course-03",
+      "lx-course-04",
+      "lx-course-05"
+    ],
+    "recommendedLessonIds": [
+      "lx-lesson-001",
+      "lx-lesson-002",
+      "lx-lesson-003",
+      "lx-lesson-004",
+      "lx-lesson-005",
+      "lx-lesson-006",
+      "lx-lesson-007",
+      "lx-lesson-008",
+      "lx-lesson-009",
+      "lx-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "熟练Linux命令",
+      "能编写脚本",
+      "会系统管理",
+      "具备开发环境配置能力"
+    ]
+  },
+  {
+    "id": "lx-route-24",
+    "slug": "文本处理加强",
+    "title": "文本处理加强",
+    "description": "文本处理加强",
+    "summary": "文本处理加强",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-25",
+    "slug": "权限专项",
+    "title": "权限专项",
+    "description": "权限专项",
+    "summary": "权限专项",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-26",
+    "slug": "网络排查",
+    "title": "网络排查",
+    "description": "网络排查",
+    "summary": "网络排查",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-27",
+    "slug": "系统调优",
+    "title": "系统调优",
+    "description": "系统调优",
+    "summary": "系统调优",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-28",
+    "slug": "Shell高级",
+    "title": "Shell高级",
+    "description": "Shell高级",
+    "summary": "Shell高级",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-29",
+    "slug": "Vim专项",
+    "title": "Vim专项",
+    "description": "Vim专项",
+    "summary": "Vim专项",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-30",
+    "slug": "正则表达式",
+    "title": "正则表达式",
+    "description": "正则表达式",
+    "summary": "正则表达式",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-31",
+    "slug": "Emacs基础",
+    "title": "Emacs基础",
+    "description": "Emacs基础",
+    "summary": "Emacs基础",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-32",
+    "slug": "编译安装",
+    "title": "编译安装",
+    "description": "编译安装",
+    "summary": "编译安装",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-33",
+    "slug": "内核编译",
+    "title": "内核编译",
+    "description": "内核编译",
+    "summary": "内核编译",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-34",
+    "slug": "系统备份",
+    "title": "系统备份",
+    "description": "系统备份",
+    "summary": "系统备份",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-35",
+    "slug": "K8s入门",
+    "title": "K8s入门",
+    "description": "K8s入门",
+    "summary": "K8s入门",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-36",
+    "slug": "DevOps入门",
+    "title": "DevOps入门",
+    "description": "DevOps入门",
+    "summary": "DevOps入门",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-37",
+    "slug": "Ansible基础",
+    "title": "Ansible基础",
+    "description": "Ansible基础",
+    "summary": "Ansible基础",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  },
+  {
+    "id": "lx-route-38",
+    "slug": "Terraform基础",
+    "title": "Terraform基础",
+    "description": "Terraform基础",
+    "summary": "Terraform基础",
+    "targetUser": "用户",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握技能"
+    ]
+  }
+]
