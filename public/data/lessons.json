@@ -18,7 +18,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux概述与历史\n\n## 概述\nLinux概述与历史是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Linux概述与历史能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-001"
+    ]
   },
   {
     "id": "lx-lesson-002",
@@ -39,7 +43,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Ubuntu安装与桌面\n\n## 概述\nUbuntu安装与桌面是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Ubuntu安装与桌面能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-002"
+    ]
   },
   {
     "id": "lx-lesson-003",
@@ -60,7 +68,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 终端与命令行基础\n\n## 概述\n终端与命令行基础是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握终端与命令行基础能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-003"
+    ]
   },
   {
     "id": "lx-lesson-004",
@@ -81,7 +93,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux学习路线\n\n## 概述\nLinux学习路线是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Linux学习路线能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-004"
+    ]
   },
   {
     "id": "lx-lesson-005",
@@ -108,7 +124,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FHS目录标准\n\n## 概述\nFHS目录标准是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握FHS目录标准能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-005"
+    ]
   },
   {
     "id": "lx-lesson-006",
@@ -135,7 +155,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 根目录详解\n\n## 概述\n根目录详解是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握根目录详解能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-006"
+    ]
   },
   {
     "id": "lx-lesson-007",
@@ -162,7 +186,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# /home与用户目录\n\n## 概述\n/home与用户目录是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握/home与用户目录能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-007"
+    ]
   },
   {
     "id": "lx-lesson-008",
@@ -189,7 +217,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# /etc系统配置\n\n## 概述\n/etc系统配置是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握/etc系统配置能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-008"
+    ]
   },
   {
     "id": "lx-lesson-009",
@@ -216,7 +248,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# /var日志与数据\n\n## 概述\n/var日志与数据是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握/var日志与数据能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-009"
+    ]
   },
   {
     "id": "lx-lesson-010",
@@ -243,7 +279,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# /usr程序与库\n\n## 概述\n/usr程序与库是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握/usr程序与库能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-010"
+    ]
   },
   {
     "id": "lx-lesson-011",
@@ -270,7 +310,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# /proc虚拟文件系统\n\n## 概述\n/proc虚拟文件系统是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握/proc虚拟文件系统能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-011"
+    ]
   },
   {
     "id": "lx-lesson-012",
@@ -297,7 +341,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 绝对路径相对路径\n\n## 概述\n绝对路径相对路径是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握绝对路径相对路径能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-012"
+    ]
   },
   {
     "id": "lx-lesson-013",
@@ -324,7 +372,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ls列出文件\n\n## 概述\nls列出文件是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ls列出文件能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-013"
+    ]
   },
   {
     "id": "lx-lesson-014",
@@ -351,7 +403,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# cd切换目录\n\n## 概述\ncd切换目录是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握cd切换目录能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-014"
+    ]
   },
   {
     "id": "lx-lesson-015",
@@ -378,7 +434,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# pwd当前路径\n\n## 概述\npwd当前路径是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握pwd当前路径能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-015"
+    ]
   },
   {
     "id": "lx-lesson-016",
@@ -405,7 +465,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# mkdir创建目录\n\n## 概述\nmkdir创建目录是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握mkdir创建目录能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-016"
+    ]
   },
   {
     "id": "lx-lesson-017",
@@ -432,7 +496,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# rm删除\n\n## 概述\nrm删除是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握rm删除能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-017"
+    ]
   },
   {
     "id": "lx-lesson-018",
@@ -459,7 +527,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# cp复制\n\n## 概述\ncp复制是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握cp复制能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-018"
+    ]
   },
   {
     "id": "lx-lesson-019",
@@ -486,7 +558,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# mv移动重命名\n\n## 概述\nmv移动重命名是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握mv移动重命名能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-019"
+    ]
   },
   {
     "id": "lx-lesson-020",
@@ -513,7 +589,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# touch创建文件\n\n## 概述\ntouch创建文件是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握touch创建文件能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-020"
+    ]
   },
   {
     "id": "lx-lesson-021",
@@ -541,7 +621,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ln链接\n\n## 概述\nln链接是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ln链接能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-021",
+      "lx-kp-022"
+    ]
   },
   {
     "id": "lx-lesson-022",
@@ -568,7 +653,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# file查看类型\n\n## 概述\nfile查看类型是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握file查看类型能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-023"
+    ]
   },
   {
     "id": "lx-lesson-023",
@@ -595,7 +684,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 通配符与Glob\n\n## 概述\n通配符与Glob是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握通配符与Glob能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-024"
+    ]
   },
   {
     "id": "lx-lesson-024",
@@ -616,7 +709,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# cat查看文件\n\n## 概述\ncat查看文件是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握cat查看文件能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-025"
+    ]
   },
   {
     "id": "lx-lesson-025",
@@ -637,7 +734,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# less分页查看\n\n## 概述\nless分页查看是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握less分页查看能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-026"
+    ]
   },
   {
     "id": "lx-lesson-026",
@@ -658,7 +759,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# head查看开头\n\n## 概述\nhead查看开头是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握head查看开头能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-027"
+    ]
   },
   {
     "id": "lx-lesson-027",
@@ -679,7 +784,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# tail查看结尾\n\n## 概述\ntail查看结尾是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握tail查看结尾能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-028"
+    ]
   },
   {
     "id": "lx-lesson-028",
@@ -701,7 +810,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# grep文本搜索\n\n## 概述\ngrep文本搜索是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握grep文本搜索能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-029",
+      "lx-kp-030"
+    ]
   },
   {
     "id": "lx-lesson-029",
@@ -723,7 +837,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# sed流编辑器\n\n## 概述\nsed流编辑器是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握sed流编辑器能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-031",
+      "lx-kp-032"
+    ]
   },
   {
     "id": "lx-lesson-030",
@@ -745,7 +864,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# awk文本处理\n\n## 概述\nawk文本处理是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握awk文本处理能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-033",
+      "lx-kp-034"
+    ]
   },
   {
     "id": "lx-lesson-031",
@@ -766,7 +890,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# sort排序\n\n## 概述\nsort排序是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握sort排序能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-035"
+    ]
   },
   {
     "id": "lx-lesson-032",
@@ -787,7 +915,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# uniq去重\n\n## 概述\nuniq去重是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握uniq去重能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-036"
+    ]
   },
   {
     "id": "lx-lesson-033",
@@ -808,7 +940,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# wc统计\n\n## 概述\nwc统计是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握wc统计能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-037"
+    ]
   },
   {
     "id": "lx-lesson-034",
@@ -829,7 +965,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用户概念\n\n## 概述\n用户概念是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握用户概念能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-038"
+    ]
   },
   {
     "id": "lx-lesson-035",
@@ -850,7 +990,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# useradd/userdel\n\n## 概述\nuseradd/userdel是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握useradd/userdel能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-039"
+    ]
   },
   {
     "id": "lx-lesson-036",
@@ -871,7 +1015,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# passwd\n\n## 概述\npasswd是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握passwd能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-040"
+    ]
   },
   {
     "id": "lx-lesson-037",
@@ -892,7 +1040,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# groupadd/groupdel\n\n## 概述\ngroupadd/groupdel是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握groupadd/groupdel能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-041"
+    ]
   },
   {
     "id": "lx-lesson-038",
@@ -914,7 +1066,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件权限rwx\n\n## 概述\n文件权限rwx是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握文件权限rwx能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-042",
+      "lx-kp-043"
+    ]
   },
   {
     "id": "lx-lesson-039",
@@ -935,7 +1092,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# chmod修改权限\n\n## 概述\nchmod修改权限是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握chmod修改权限能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-044"
+    ]
   },
   {
     "id": "lx-lesson-040",
@@ -956,7 +1117,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# chown修改属主\n\n## 概述\nchown修改属主是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握chown修改属主能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-045"
+    ]
   },
   {
     "id": "lx-lesson-041",
@@ -977,7 +1142,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# umask默认权限\n\n## 概述\numask默认权限是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握umask默认权限能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-046"
+    ]
   },
   {
     "id": "lx-lesson-042",
@@ -998,7 +1167,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# sudo提权\n\n## 概述\nsudo提权是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握sudo提权能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-047"
+    ]
   },
   {
     "id": "lx-lesson-043",
@@ -1019,7 +1192,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SUID/SGID/Sticky\n\n## 概述\nSUID/SGID/Sticky是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握SUID/SGID/Sticky能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-048"
+    ]
   },
   {
     "id": "lx-lesson-044",
@@ -1046,7 +1223,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ps进程查看\n\n## 概述\nps进程查看是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ps进程查看能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-049"
+    ]
   },
   {
     "id": "lx-lesson-045",
@@ -1073,7 +1254,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# top实时监控\n\n## 概述\ntop实时监控是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握top实时监控能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-050"
+    ]
   },
   {
     "id": "lx-lesson-046",
@@ -1100,7 +1285,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# htop增强工具\n\n## 概述\nhtop增强工具是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握htop增强工具能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-051"
+    ]
   },
   {
     "id": "lx-lesson-047",
@@ -1127,7 +1316,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# kill进程终止\n\n## 概述\nkill进程终止是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握kill进程终止能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-052"
+    ]
   },
   {
     "id": "lx-lesson-048",
@@ -1154,7 +1347,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# jobs/fg/bg\n\n## 概述\njobs/fg/bg是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握jobs/fg/bg能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-053"
+    ]
   },
   {
     "id": "lx-lesson-049",
@@ -1182,7 +1379,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# systemctl服务管理\n\n## 概述\nsystemctl服务管理是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握systemctl服务管理能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-054",
+      "lx-kp-055"
+    ]
   },
   {
     "id": "lx-lesson-050",
@@ -1209,7 +1411,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# journalctl日志\n\n## 概述\njournalctl日志是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握journalctl日志能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-056"
+    ]
   },
   {
     "id": "lx-lesson-051",
@@ -1236,7 +1442,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# free内存查看\n\n## 概述\nfree内存查看是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握free内存查看能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-057"
+    ]
   },
   {
     "id": "lx-lesson-052",
@@ -1263,7 +1473,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# df/du磁盘\n\n## 概述\ndf/du磁盘是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握df/du磁盘能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-058"
+    ]
   },
   {
     "id": "lx-lesson-053",
@@ -1290,7 +1504,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# uname系统信息\n\n## 概述\nuname系统信息是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握uname系统信息能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-059"
+    ]
   },
   {
     "id": "lx-lesson-054",
@@ -1317,7 +1535,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# apt包管理\n\n## 概述\napt包管理是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握apt包管理能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-060"
+    ]
   },
   {
     "id": "lx-lesson-055",
@@ -1344,7 +1566,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# dpkg底层工具\n\n## 概述\ndpkg底层工具是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握dpkg底层工具能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-061"
+    ]
   },
   {
     "id": "lx-lesson-056",
@@ -1371,7 +1597,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 源配置\n\n## 概述\n源配置是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握源配置能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-062"
+    ]
   },
   {
     "id": "lx-lesson-057",
@@ -1398,7 +1628,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# yum与dnf\n\n## 概述\nyum与dnf是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握yum与dnf能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-063"
+    ]
   },
   {
     "id": "lx-lesson-058",
@@ -1425,7 +1659,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# snap/flatpak\n\n## 概述\nsnap/flatpak是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握snap/flatpak能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-064"
+    ]
   },
   {
     "id": "lx-lesson-059",
@@ -1452,7 +1690,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# pip/python包\n\n## 概述\npip/python包是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握pip/python包能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-065"
+    ]
   },
   {
     "id": "lx-lesson-060",
@@ -1479,7 +1721,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# npm/node包\n\n## 概述\nnpm/node包是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握npm/node包能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-066"
+    ]
   },
   {
     "id": "lx-lesson-061",
@@ -1500,7 +1746,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Bash特点\n\n## 概述\nBash特点是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Bash特点能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-067"
+    ]
   },
   {
     "id": "lx-lesson-062",
@@ -1521,7 +1771,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命令类型type\n\n## 概述\n命令类型type是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握命令类型type能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-068"
+    ]
   },
   {
     "id": "lx-lesson-063",
@@ -1542,7 +1796,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# alias别名\n\n## 概述\nalias别名是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握alias别名能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-069"
+    ]
   },
   {
     "id": "lx-lesson-064",
@@ -1563,7 +1821,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# history历史\n\n## 概述\nhistory历史是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握history历史能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-070"
+    ]
   },
   {
     "id": "lx-lesson-065",
@@ -1584,7 +1846,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Tab补全\n\n## 概述\nTab补全是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Tab补全能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-071"
+    ]
   },
   {
     "id": "lx-lesson-066",
@@ -1605,7 +1871,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命令优先级\n\n## 概述\n命令优先级是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握命令优先级能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-072"
+    ]
   },
   {
     "id": "lx-lesson-067",
@@ -1626,7 +1896,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变量定义\n\n## 概述\n变量定义是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握变量定义能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-073"
+    ]
   },
   {
     "id": "lx-lesson-068",
@@ -1647,7 +1921,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 环境变量PATH\n\n## 概述\n环境变量PATH是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握环境变量PATH能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-074"
+    ]
   },
   {
     "id": "lx-lesson-069",
@@ -1668,7 +1946,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# export\n\n## 概述\nexport是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握export能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-075"
+    ]
   },
   {
     "id": "lx-lesson-070",
@@ -1689,7 +1971,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特殊变量\n\n## 概述\n特殊变量是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握特殊变量能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-076"
+    ]
   },
   {
     "id": "lx-lesson-071",
@@ -1711,7 +1997,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# if条件\n\n## 概述\nif条件是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握if条件能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-077",
+      "lx-kp-078"
+    ]
   },
   {
     "id": "lx-lesson-072",
@@ -1732,7 +2023,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# case分支\n\n## 概述\ncase分支是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握case分支能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-079"
+    ]
   },
   {
     "id": "lx-lesson-073",
@@ -1753,7 +2048,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# for循环\n\n## 概述\nfor循环是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握for循环能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-080"
+    ]
   },
   {
     "id": "lx-lesson-074",
@@ -1774,7 +2073,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# while循环\n\n## 概述\nwhile循环是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握while循环能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-081"
+    ]
   },
   {
     "id": "lx-lesson-075",
@@ -1795,7 +2098,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# test与[]\n\n## 概述\ntest与[]是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握test与[]能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-082"
+    ]
   },
   {
     "id": "lx-lesson-076",
@@ -1816,7 +2123,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 算术运算\n\n## 概述\n算术运算是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握算术运算能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-083"
+    ]
   },
   {
     "id": "lx-lesson-077",
@@ -1837,7 +2148,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数定义\n\n## 概述\n函数定义是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握函数定义能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-084"
+    ]
   },
   {
     "id": "lx-lesson-078",
@@ -1858,7 +2173,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数参数\n\n## 概述\n函数参数是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握函数参数能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-085"
+    ]
   },
   {
     "id": "lx-lesson-079",
@@ -1879,7 +2198,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 脚本参数\n\n## 概述\n脚本参数是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握脚本参数能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-086"
+    ]
   },
   {
     "id": "lx-lesson-080",
@@ -1900,7 +2223,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 退出码\n\n## 概述\n退出码是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握退出码能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-087"
+    ]
   },
   {
     "id": "lx-lesson-081",
@@ -1921,7 +2248,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 脚本调试\n\n## 概述\n脚本调试是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握脚本调试能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-088"
+    ]
   },
   {
     "id": "lx-lesson-082",
@@ -1942,7 +2273,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自动化备份脚本\n\n## 概述\n自动化备份脚本是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握自动化备份脚本能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-089"
+    ]
   },
   {
     "id": "lx-lesson-083",
@@ -1963,7 +2298,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 管道|\n\n## 概述\n管道|是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握管道|能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-090"
+    ]
   },
   {
     "id": "lx-lesson-084",
@@ -1984,7 +2323,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 输出重定向>\n\n## 概述\n输出重定向>是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握输出重定向>能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-091"
+    ]
   },
   {
     "id": "lx-lesson-085",
@@ -2005,7 +2348,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 输入重定向<\n\n## 概述\n输入重定向<是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握输入重定向<能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-092"
+    ]
   },
   {
     "id": "lx-lesson-086",
@@ -2026,7 +2373,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 错误重定向2>\n\n## 概述\n错误重定向2>是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握错误重定向2>能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-093"
+    ]
   },
   {
     "id": "lx-lesson-087",
@@ -2047,7 +2398,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# xargs\n\n## 概述\nxargs是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握xargs能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-094"
+    ]
   },
   {
     "id": "lx-lesson-088",
@@ -2068,7 +2423,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 管道组合技巧\n\n## 概述\n管道组合技巧是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握管道组合技巧能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-095"
+    ]
   },
   {
     "id": "lx-lesson-089",
@@ -2095,7 +2454,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ssh远程连接\n\n## 概述\nssh远程连接是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ssh远程连接能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-096"
+    ]
   },
   {
     "id": "lx-lesson-090",
@@ -2122,7 +2485,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# scp文件传输\n\n## 概述\nscp文件传输是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握scp文件传输能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-097"
+    ]
   },
   {
     "id": "lx-lesson-091",
@@ -2149,7 +2516,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# rsync同步\n\n## 概述\nrsync同步是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握rsync同步能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-098"
+    ]
   },
   {
     "id": "lx-lesson-092",
@@ -2176,7 +2547,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# curl网络请求\n\n## 概述\ncurl网络请求是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握curl网络请求能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-099"
+    ]
   },
   {
     "id": "lx-lesson-093",
@@ -2203,7 +2578,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# wget下载\n\n## 概述\nwget下载是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握wget下载能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-100"
+    ]
   },
   {
     "id": "lx-lesson-094",
@@ -2230,7 +2609,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ping连通检查\n\n## 概述\nping连通检查是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ping连通检查能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-101"
+    ]
   },
   {
     "id": "lx-lesson-095",
@@ -2257,7 +2640,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ss端口查看\n\n## 概述\nss端口查看是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握ss端口查看能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-102"
+    ]
   },
   {
     "id": "lx-lesson-096",
@@ -2284,7 +2671,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# traceroute路由\n\n## 概述\ntraceroute路由是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握traceroute路由能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-103"
+    ]
   },
   {
     "id": "lx-lesson-097",
@@ -2306,7 +2697,12 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# crontab定时任务\n\n## 概述\ncrontab定时任务是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握crontab定时任务能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-104",
+      "lx-kp-105"
+    ]
   },
   {
     "id": "lx-lesson-098",
@@ -2327,7 +2723,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# logrotate日志轮转\n\n## 概述\nlogrotate日志轮转是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握logrotate日志轮转能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-106"
+    ]
   },
   {
     "id": "lx-lesson-099",
@@ -2348,7 +2748,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# dmesg内核日志\n\n## 概述\ndmesg内核日志是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握dmesg内核日志能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-107"
+    ]
   },
   {
     "id": "lx-lesson-100",
@@ -2369,7 +2773,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# last登录记录\n\n## 概述\nlast登录记录是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握last登录记录能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-108"
+    ]
   },
   {
     "id": "lx-lesson-101",
@@ -2390,7 +2798,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常用排错思路\n\n## 概述\n常用排错思路是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握常用排错思路能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-109"
+    ]
   },
   {
     "id": "lx-lesson-102",
@@ -2411,7 +2823,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 开发环境搭建\n\n## 概述\n开发环境搭建是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握开发环境搭建能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-110"
+    ]
   },
   {
     "id": "lx-lesson-103",
@@ -2432,7 +2848,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Vim编辑器入门\n\n## 概述\nVim编辑器入门是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握Vim编辑器入门能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-111"
+    ]
   },
   {
     "id": "lx-lesson-104",
@@ -2453,7 +2873,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 服务器初始配置\n\n## 概述\n服务器初始配置是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握服务器初始配置能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-112"
+    ]
   },
   {
     "id": "lx-lesson-105",
@@ -2474,7 +2898,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 部署自动化工\n\n## 概述\n部署自动化工是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握部署自动化工能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-113"
+    ]
   },
   {
     "id": "lx-lesson-106",
@@ -2495,7 +2923,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合自动化项目\n\n## 概述\n综合自动化项目是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握综合自动化项目能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-114"
+    ]
   },
   {
     "id": "lx-lesson-107",
@@ -2516,7 +2948,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n## 概述\n模拟测试是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握模拟测试能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-115"
+    ]
   },
   {
     "id": "lx-lesson-108",
@@ -2537,7 +2973,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n## 概述\n考前冲刺是Linux系统中的重要内容。\n\n## 常用操作\n- 基本用法\n- 常见选项\n- 实用技巧\n\n## 注意事项\n- 注意权限\n- 避免误操作\n\n## 总结\n掌握考前冲刺能提高工作效率。",
+    "knowledgePoints": [
+      "lx-kp-116"
+    ]
   },
   {
     "id": "lx-lesson-109",
@@ -2558,7 +2998,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充1\n\n补充1内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充1提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0109"
+    ]
   },
   {
     "id": "lx-lesson-110",
@@ -2579,7 +3023,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充2\n\n补充2内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充2提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0110"
+    ]
   },
   {
     "id": "lx-lesson-111",
@@ -2600,7 +3048,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充3\n\n补充3内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充3提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0111"
+    ]
   },
   {
     "id": "lx-lesson-112",
@@ -2621,7 +3073,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充4\n\n补充4内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充4提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0112"
+    ]
   },
   {
     "id": "lx-lesson-113",
@@ -2642,7 +3098,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充5\n\n补充5内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充5提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0113"
+    ]
   },
   {
     "id": "lx-lesson-114",
@@ -2663,7 +3123,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充6\n\n补充6内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充6提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0114"
+    ]
   },
   {
     "id": "lx-lesson-115",
@@ -2684,7 +3148,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充7\n\n补充7内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充7提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0115"
+    ]
   },
   {
     "id": "lx-lesson-116",
@@ -2705,7 +3173,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充8\n\n补充8内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充8提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0116"
+    ]
   },
   {
     "id": "lx-lesson-117",
@@ -2726,7 +3198,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充9\n\n补充9内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充9提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0117"
+    ]
   },
   {
     "id": "lx-lesson-118",
@@ -2747,7 +3223,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充10\n\n补充10内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充10提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0118"
+    ]
   },
   {
     "id": "lx-lesson-119",
@@ -2768,7 +3248,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充11\n\n补充11内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充11提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0119"
+    ]
   },
   {
     "id": "lx-lesson-120",
@@ -2789,7 +3273,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充12\n\n补充12内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充12提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0120"
+    ]
   },
   {
     "id": "lx-lesson-121",
@@ -2810,7 +3298,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充13\n\n补充13内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充13提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0121"
+    ]
   },
   {
     "id": "lx-lesson-122",
@@ -2831,7 +3323,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充14\n\n补充14内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充14提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0122"
+    ]
   },
   {
     "id": "lx-lesson-123",
@@ -2852,7 +3348,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充15\n\n补充15内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充15提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0123"
+    ]
   },
   {
     "id": "lx-lesson-124",
@@ -2873,7 +3373,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充16\n\n补充16内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充16提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0124"
+    ]
   },
   {
     "id": "lx-lesson-125",
@@ -2894,7 +3398,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充17\n\n补充17内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充17提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0125"
+    ]
   },
   {
     "id": "lx-lesson-126",
@@ -2915,7 +3423,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充18\n\n补充18内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充18提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0126"
+    ]
   },
   {
     "id": "lx-lesson-127",
@@ -2936,7 +3448,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充19\n\n补充19内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充19提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0127"
+    ]
   },
   {
     "id": "lx-lesson-128",
@@ -2957,7 +3473,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充20\n\n补充20内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充20提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0128"
+    ]
   },
   {
     "id": "lx-lesson-129",
@@ -2978,7 +3498,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充21\n\n补充21内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充21提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0129"
+    ]
   },
   {
     "id": "lx-lesson-130",
@@ -2999,7 +3523,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充22\n\n补充22内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充22提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0130"
+    ]
   },
   {
     "id": "lx-lesson-131",
@@ -3020,7 +3548,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充23\n\n补充23内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充23提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0131"
+    ]
   },
   {
     "id": "lx-lesson-132",
@@ -3041,7 +3573,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充24\n\n补充24内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充24提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0132"
+    ]
   },
   {
     "id": "lx-lesson-133",
@@ -3062,7 +3598,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充25\n\n补充25内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充25提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0133"
+    ]
   },
   {
     "id": "lx-lesson-134",
@@ -3083,7 +3623,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充26\n\n补充26内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充26提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0134"
+    ]
   },
   {
     "id": "lx-lesson-135",
@@ -3104,7 +3648,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充27\n\n补充27内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充27提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0135"
+    ]
   },
   {
     "id": "lx-lesson-136",
@@ -3125,7 +3673,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充28\n\n补充28内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充28提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0136"
+    ]
   },
   {
     "id": "lx-lesson-137",
@@ -3146,7 +3698,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充29\n\n补充29内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充29提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0137"
+    ]
   },
   {
     "id": "lx-lesson-138",
@@ -3167,7 +3723,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充30\n\n补充30内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充30提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0138"
+    ]
   },
   {
     "id": "lx-lesson-139",
@@ -3188,7 +3748,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充31\n\n补充31内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充31提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0139"
+    ]
   },
   {
     "id": "lx-lesson-140",
@@ -3209,7 +3773,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充32\n\n补充32内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充32提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0140"
+    ]
   },
   {
     "id": "lx-lesson-141",
@@ -3230,7 +3798,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充33\n\n补充33内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充33提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0141"
+    ]
   },
   {
     "id": "lx-lesson-142",
@@ -3251,7 +3823,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充34\n\n补充34内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充34提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0142"
+    ]
   },
   {
     "id": "lx-lesson-143",
@@ -3272,7 +3848,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充35\n\n补充35内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充35提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0143"
+    ]
   },
   {
     "id": "lx-lesson-144",
@@ -3293,7 +3873,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充36\n\n补充36内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充36提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0144"
+    ]
   },
   {
     "id": "lx-lesson-145",
@@ -3314,7 +3898,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充37\n\n补充37内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充37提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0145"
+    ]
   },
   {
     "id": "lx-lesson-146",
@@ -3335,7 +3923,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充38\n\n补充38内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充38提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0146"
+    ]
   },
   {
     "id": "lx-lesson-147",
@@ -3356,7 +3948,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充39\n\n补充39内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充39提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0147"
+    ]
   },
   {
     "id": "lx-lesson-148",
@@ -3377,7 +3973,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充40\n\n补充40内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充40提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0148"
+    ]
   },
   {
     "id": "lx-lesson-149",
@@ -3398,7 +3998,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充41\n\n补充41内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充41提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0149"
+    ]
   },
   {
     "id": "lx-lesson-150",
@@ -3419,7 +4023,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充42\n\n补充42内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充42提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0150"
+    ]
   },
   {
     "id": "lx-lesson-151",
@@ -3440,7 +4048,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充43\n\n补充43内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充43提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0151"
+    ]
   },
   {
     "id": "lx-lesson-152",
@@ -3461,7 +4073,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充44\n\n补充44内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充44提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0152"
+    ]
   },
   {
     "id": "lx-lesson-153",
@@ -3482,7 +4098,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充45\n\n补充45内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充45提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0153"
+    ]
   },
   {
     "id": "lx-lesson-154",
@@ -3503,7 +4123,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充46\n\n补充46内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充46提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0154"
+    ]
   },
   {
     "id": "lx-lesson-155",
@@ -3524,7 +4148,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充47\n\n补充47内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充47提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0155"
+    ]
   },
   {
     "id": "lx-lesson-156",
@@ -3545,7 +4173,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充48\n\n补充48内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充48提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0156"
+    ]
   },
   {
     "id": "lx-lesson-157",
@@ -3566,7 +4198,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充49\n\n补充49内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充49提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0157"
+    ]
   },
   {
     "id": "lx-lesson-158",
@@ -3587,7 +4223,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充50\n\n补充50内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充50提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0158"
+    ]
   },
   {
     "id": "lx-lesson-159",
@@ -3608,7 +4248,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充51\n\n补充51内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充51提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0159"
+    ]
   },
   {
     "id": "lx-lesson-160",
@@ -3629,7 +4273,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充52\n\n补充52内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充52提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0160"
+    ]
   },
   {
     "id": "lx-lesson-161",
@@ -3650,7 +4298,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充53\n\n补充53内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充53提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0161"
+    ]
   },
   {
     "id": "lx-lesson-162",
@@ -3671,7 +4323,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充54\n\n补充54内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充54提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0162"
+    ]
   },
   {
     "id": "lx-lesson-163",
@@ -3692,7 +4348,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充55\n\n补充55内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充55提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0163"
+    ]
   },
   {
     "id": "lx-lesson-164",
@@ -3713,7 +4373,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充56\n\n补充56内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充56提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0164"
+    ]
   },
   {
     "id": "lx-lesson-165",
@@ -3734,7 +4398,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充57\n\n补充57内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充57提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0165"
+    ]
   },
   {
     "id": "lx-lesson-166",
@@ -3755,7 +4423,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充58\n\n补充58内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充58提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0166"
+    ]
   },
   {
     "id": "lx-lesson-167",
@@ -3776,7 +4448,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充59\n\n补充59内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充59提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0167"
+    ]
   },
   {
     "id": "lx-lesson-168",
@@ -3797,7 +4473,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充60\n\n补充60内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充60提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0168"
+    ]
   },
   {
     "id": "lx-lesson-169",
@@ -3818,7 +4498,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充61\n\n补充61内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充61提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0169"
+    ]
   },
   {
     "id": "lx-lesson-170",
@@ -3839,7 +4523,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充62\n\n补充62内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充62提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0170"
+    ]
   },
   {
     "id": "lx-lesson-171",
@@ -3860,7 +4548,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充63\n\n补充63内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充63提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0171"
+    ]
   },
   {
     "id": "lx-lesson-172",
@@ -3881,7 +4573,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充64\n\n补充64内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充64提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0172"
+    ]
   },
   {
     "id": "lx-lesson-173",
@@ -3902,7 +4598,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充65\n\n补充65内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充65提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0173"
+    ]
   },
   {
     "id": "lx-lesson-174",
@@ -3923,7 +4623,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充66\n\n补充66内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充66提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0174"
+    ]
   },
   {
     "id": "lx-lesson-175",
@@ -3944,7 +4648,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充67\n\n补充67内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充67提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0175"
+    ]
   },
   {
     "id": "lx-lesson-176",
@@ -3965,7 +4673,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充68\n\n补充68内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充68提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0176"
+    ]
   },
   {
     "id": "lx-lesson-177",
@@ -3986,7 +4698,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充69\n\n补充69内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充69提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0177"
+    ]
   },
   {
     "id": "lx-lesson-178",
@@ -4007,7 +4723,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充70\n\n补充70内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充70提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0178"
+    ]
   },
   {
     "id": "lx-lesson-179",
@@ -4028,7 +4748,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充71\n\n补充71内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充71提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0179"
+    ]
   },
   {
     "id": "lx-lesson-180",
@@ -4049,7 +4773,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充72\n\n补充72内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充72提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0180"
+    ]
   },
   {
     "id": "lx-lesson-181",
@@ -4070,7 +4798,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充73\n\n补充73内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充73提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0181"
+    ]
   },
   {
     "id": "lx-lesson-182",
@@ -4091,7 +4823,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充74\n\n补充74内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充74提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0182"
+    ]
   },
   {
     "id": "lx-lesson-183",
@@ -4112,7 +4848,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充75\n\n补充75内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充75提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0183"
+    ]
   },
   {
     "id": "lx-lesson-184",
@@ -4133,7 +4873,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充76\n\n补充76内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充76提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0184"
+    ]
   },
   {
     "id": "lx-lesson-185",
@@ -4154,7 +4898,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充77\n\n补充77内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充77提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0185"
+    ]
   },
   {
     "id": "lx-lesson-186",
@@ -4175,7 +4923,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充78\n\n补充78内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充78提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0186"
+    ]
   },
   {
     "id": "lx-lesson-187",
@@ -4196,7 +4948,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充79\n\n补充79内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充79提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0187"
+    ]
   },
   {
     "id": "lx-lesson-188",
@@ -4217,7 +4973,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 补充80\n\n补充80内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握补充80提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0188"
+    ]
   },
   {
     "id": "lx-lesson-189",
@@ -4238,7 +4998,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux图形界面\n\nLinux图形界面内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握Linux图形界面提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0189"
+    ]
   },
   {
     "id": "lx-lesson-190",
@@ -4259,7 +5023,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# WSL使用\n\nWSL使用内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握WSL使用提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0190"
+    ]
   },
   {
     "id": "lx-lesson-191",
@@ -4280,7 +5048,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 挂载与卸载mount\n\n挂载与卸载mount内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握挂载与卸载mount提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0191"
+    ]
   },
   {
     "id": "lx-lesson-192",
@@ -4301,7 +5073,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 输出重定向>\n\n输出重定向>内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握输出重定向>提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0192"
+    ]
   },
   {
     "id": "lx-lesson-193",
@@ -4322,7 +5098,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# tr字符转换\n\ntr字符转换内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握tr字符转换提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0193"
+    ]
   },
   {
     "id": "lx-lesson-194",
@@ -4343,7 +5123,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# cut列提取\n\ncut列提取内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握cut列提取提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0194"
+    ]
   },
   {
     "id": "lx-lesson-195",
@@ -4364,7 +5148,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ACL权限\n\nACL权限内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握ACL权限提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0195"
+    ]
   },
   {
     "id": "lx-lesson-196",
@@ -4385,7 +5173,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 防火墙ufw\n\n防火墙ufw内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握防火墙ufw提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0196"
+    ]
   },
   {
     "id": "lx-lesson-197",
@@ -4406,7 +5198,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# nohup后台运行\n\nnohup后台运行内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握nohup后台运行提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0197"
+    ]
   },
   {
     "id": "lx-lesson-198",
@@ -4427,7 +5223,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 源码编译安装\n\n源码编译安装内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握源码编译安装提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0198"
+    ]
   },
   {
     "id": "lx-lesson-199",
@@ -4448,7 +5248,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# env环境变量\n\nenv环境变量内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握env环境变量提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0199"
+    ]
   },
   {
     "id": "lx-lesson-200",
@@ -4469,7 +5273,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# .bashrc配置\n\n.bashrc配置内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握.bashrc配置提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0200"
+    ]
   },
   {
     "id": "lx-lesson-201",
@@ -4490,7 +5298,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# until循环\n\nuntil循环内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握until循环提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0201"
+    ]
   },
   {
     "id": "lx-lesson-202",
@@ -4511,7 +5323,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# getopts参数解析\n\ngetopts参数解析内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握getopts参数解析提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0202"
+    ]
   },
   {
     "id": "lx-lesson-203",
@@ -4532,7 +5348,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# tee输出到文件\n\ntee输出到文件内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握tee输出到文件提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0203"
+    ]
   },
   {
     "id": "lx-lesson-204",
@@ -4553,7 +5373,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# here文档\n\nhere文档内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握here文档提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0204"
+    ]
   },
   {
     "id": "lx-lesson-205",
@@ -4574,7 +5398,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# ifconfig配置\n\nifconfig配置内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握ifconfig配置提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0205"
+    ]
   },
   {
     "id": "lx-lesson-206",
@@ -4595,7 +5423,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# at单次定时\n\nat单次定时内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握at单次定时提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0206"
+    ]
   },
   {
     "id": "lx-lesson-207",
@@ -4616,7 +5448,11 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# make编译\n\nmake编译内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握make编译提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0207"
+    ]
   },
   {
     "id": "lx-lesson-208",
@@ -4637,6 +5473,10 @@
       "Linux"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合排错脚本\n\n综合排错脚本内容。\n\n## 要点\n- 关键概念\n- 使用方法\n- 注意事项\n\n## 总结\n掌握综合排错脚本提高效率。",
+    "knowledgePoints": [
+      "lx-kp-0208"
+    ]
   }
 ]

@@ -36,7 +36,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux入门与Ubuntu环境基础测试",
+    "description": "Linux入门与Ubuntu环境基础测试",
+    "slug": "linux入门与ubuntu环境基础测试"
   },
   {
     "id": "lx-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统与目录结构基础测试",
+    "description": "文件系统与目录结构基础测试",
+    "slug": "文件系统与目录结构基础测试"
   },
   {
     "id": "lx-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件与目录操作命令基础测试",
+    "description": "文件与目录操作命令基础测试",
+    "slug": "文件与目录操作命令基础测试"
   },
   {
     "id": "lx-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文本查看搜索与处理基础测试",
+    "description": "文本查看搜索与处理基础测试",
+    "slug": "文本查看搜索与处理基础测试"
   },
   {
     "id": "lx-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户用户组与权限基础测试",
+    "description": "用户用户组与权限基础测试",
+    "slug": "用户用户组与权限基础测试"
   },
   {
     "id": "lx-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "进程管理与系统状态基础测试",
+    "description": "进程管理与系统状态基础测试",
+    "slug": "进程管理与系统状态基础测试"
   },
   {
     "id": "lx-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件包管理与开发环境基础测试",
+    "description": "软件包管理与开发环境基础测试",
+    "slug": "软件包管理与开发环境基础测试"
   },
   {
     "id": "lx-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell基础与Bash基础测试",
+    "description": "Shell基础与Bash基础测试",
+    "slug": "shell基础与bash基础测试"
   },
   {
     "id": "lx-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell变量条件与循环基础测试",
+    "description": "Shell变量条件与循环基础测试",
+    "slug": "shell变量条件与循环基础测试"
   },
   {
     "id": "lx-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell函数脚本与自动化基础测试",
+    "description": "Shell函数脚本与自动化基础测试",
+    "slug": "shell函数脚本与自动化基础测试"
   },
   {
     "id": "lx-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "管道重定向与文本处理基础测试",
+    "description": "管道重定向与文本处理基础测试",
+    "slug": "管道重定向与文本处理基础测试"
   },
   {
     "id": "lx-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "网络命令与远程连接基础测试",
+    "description": "网络命令与远程连接基础测试",
+    "slug": "网络命令与远程连接基础测试"
   },
   {
     "id": "lx-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "日志定时任务与系统排错基础测试",
+    "description": "日志定时任务与系统排错基础测试",
+    "slug": "日志定时任务与系统排错基础测试"
   },
   {
     "id": "lx-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux开发工作流与综合项目基础测试",
+    "description": "Linux开发工作流与综合项目基础测试",
+    "slug": "linux开发工作流与综合项目基础测试"
   },
   {
     "id": "lx-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux入门与Ubuntu环境基础测试",
+    "description": "Linux入门与Ubuntu环境基础测试",
+    "slug": "linux入门与ubuntu环境基础测试"
   },
   {
     "id": "lx-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统与目录结构基础测试",
+    "description": "文件系统与目录结构基础测试",
+    "slug": "文件系统与目录结构基础测试"
   },
   {
     "id": "lx-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件与目录操作命令基础测试",
+    "description": "文件与目录操作命令基础测试",
+    "slug": "文件与目录操作命令基础测试"
   },
   {
     "id": "lx-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文本查看搜索与处理基础测试",
+    "description": "文本查看搜索与处理基础测试",
+    "slug": "文本查看搜索与处理基础测试"
   },
   {
     "id": "lx-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户用户组与权限基础测试",
+    "description": "用户用户组与权限基础测试",
+    "slug": "用户用户组与权限基础测试"
   },
   {
     "id": "lx-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "进程管理与系统状态基础测试",
+    "description": "进程管理与系统状态基础测试",
+    "slug": "进程管理与系统状态基础测试"
   },
   {
     "id": "lx-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件包管理与开发环境基础测试",
+    "description": "软件包管理与开发环境基础测试",
+    "slug": "软件包管理与开发环境基础测试"
   },
   {
     "id": "lx-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell基础与Bash基础测试",
+    "description": "Shell基础与Bash基础测试",
+    "slug": "shell基础与bash基础测试"
   },
   {
     "id": "lx-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell变量条件与循环基础测试",
+    "description": "Shell变量条件与循环基础测试",
+    "slug": "shell变量条件与循环基础测试"
   },
   {
     "id": "lx-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell函数脚本与自动化基础测试",
+    "description": "Shell函数脚本与自动化基础测试",
+    "slug": "shell函数脚本与自动化基础测试"
   },
   {
     "id": "lx-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "管道重定向与文本处理基础测试",
+    "description": "管道重定向与文本处理基础测试",
+    "slug": "管道重定向与文本处理基础测试"
   },
   {
     "id": "lx-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "网络命令与远程连接基础测试",
+    "description": "网络命令与远程连接基础测试",
+    "slug": "网络命令与远程连接基础测试"
   },
   {
     "id": "lx-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "日志定时任务与系统排错基础测试",
+    "description": "日志定时任务与系统排错基础测试",
+    "slug": "日志定时任务与系统排错基础测试"
   },
   {
     "id": "lx-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux开发工作流与综合项目基础测试",
+    "description": "Linux开发工作流与综合项目基础测试",
+    "slug": "linux开发工作流与综合项目基础测试"
   },
   {
     "id": "lx-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux入门与Ubuntu环境基础测试",
+    "description": "Linux入门与Ubuntu环境基础测试",
+    "slug": "linux入门与ubuntu环境基础测试"
   },
   {
     "id": "lx-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统与目录结构基础测试",
+    "description": "文件系统与目录结构基础测试",
+    "slug": "文件系统与目录结构基础测试"
   },
   {
     "id": "lx-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件与目录操作命令基础测试",
+    "description": "文件与目录操作命令基础测试",
+    "slug": "文件与目录操作命令基础测试"
   },
   {
     "id": "lx-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文本查看搜索与处理基础测试",
+    "description": "文本查看搜索与处理基础测试",
+    "slug": "文本查看搜索与处理基础测试"
   },
   {
     "id": "lx-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户用户组与权限基础测试",
+    "description": "用户用户组与权限基础测试",
+    "slug": "用户用户组与权限基础测试"
   },
   {
     "id": "lx-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "进程管理与系统状态基础测试",
+    "description": "进程管理与系统状态基础测试",
+    "slug": "进程管理与系统状态基础测试"
   },
   {
     "id": "lx-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件包管理与开发环境基础测试",
+    "description": "软件包管理与开发环境基础测试",
+    "slug": "软件包管理与开发环境基础测试"
   },
   {
     "id": "lx-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell基础与Bash进阶测试",
+    "description": "Shell基础与Bash进阶测试",
+    "slug": "shell基础与bash进阶测试"
   },
   {
     "id": "lx-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell变量条件与循环进阶测试",
+    "description": "Shell变量条件与循环进阶测试",
+    "slug": "shell变量条件与循环进阶测试"
   },
   {
     "id": "lx-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell函数脚本与自动化进阶测试",
+    "description": "Shell函数脚本与自动化进阶测试",
+    "slug": "shell函数脚本与自动化进阶测试"
   },
   {
     "id": "lx-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "管道重定向与文本处理进阶测试",
+    "description": "管道重定向与文本处理进阶测试",
+    "slug": "管道重定向与文本处理进阶测试"
   },
   {
     "id": "lx-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "网络命令与远程连接进阶测试",
+    "description": "网络命令与远程连接进阶测试",
+    "slug": "网络命令与远程连接进阶测试"
   },
   {
     "id": "lx-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "日志定时任务与系统排错进阶测试",
+    "description": "日志定时任务与系统排错进阶测试",
+    "slug": "日志定时任务与系统排错进阶测试"
   },
   {
     "id": "lx-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux开发工作流与综合项目进阶测试",
+    "description": "Linux开发工作流与综合项目进阶测试",
+    "slug": "linux开发工作流与综合项目进阶测试"
   },
   {
     "id": "lx-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux入门与Ubuntu环境进阶测试",
+    "description": "Linux入门与Ubuntu环境进阶测试",
+    "slug": "linux入门与ubuntu环境进阶测试"
   },
   {
     "id": "lx-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统与目录结构进阶测试",
+    "description": "文件系统与目录结构进阶测试",
+    "slug": "文件系统与目录结构进阶测试"
   },
   {
     "id": "lx-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件与目录操作命令进阶测试",
+    "description": "文件与目录操作命令进阶测试",
+    "slug": "文件与目录操作命令进阶测试"
   },
   {
     "id": "lx-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文本查看搜索与处理进阶测试",
+    "description": "文本查看搜索与处理进阶测试",
+    "slug": "文本查看搜索与处理进阶测试"
   },
   {
     "id": "lx-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户用户组与权限进阶测试",
+    "description": "用户用户组与权限进阶测试",
+    "slug": "用户用户组与权限进阶测试"
   },
   {
     "id": "lx-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "进程管理与系统状态进阶测试",
+    "description": "进程管理与系统状态进阶测试",
+    "slug": "进程管理与系统状态进阶测试"
   },
   {
     "id": "lx-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件包管理与开发环境进阶测试",
+    "description": "软件包管理与开发环境进阶测试",
+    "slug": "软件包管理与开发环境进阶测试"
   },
   {
     "id": "lx-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell基础与Bash进阶测试",
+    "description": "Shell基础与Bash进阶测试",
+    "slug": "shell基础与bash进阶测试"
   },
   {
     "id": "lx-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell变量条件与循环进阶测试",
+    "description": "Shell变量条件与循环进阶测试",
+    "slug": "shell变量条件与循环进阶测试"
   },
   {
     "id": "lx-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell函数脚本与自动化进阶测试",
+    "description": "Shell函数脚本与自动化进阶测试",
+    "slug": "shell函数脚本与自动化进阶测试"
   },
   {
     "id": "lx-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "管道重定向与文本处理进阶测试",
+    "description": "管道重定向与文本处理进阶测试",
+    "slug": "管道重定向与文本处理进阶测试"
   },
   {
     "id": "lx-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "网络命令与远程连接进阶测试",
+    "description": "网络命令与远程连接进阶测试",
+    "slug": "网络命令与远程连接进阶测试"
   },
   {
     "id": "lx-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "日志定时任务与系统排错进阶测试",
+    "description": "日志定时任务与系统排错进阶测试",
+    "slug": "日志定时任务与系统排错进阶测试"
   },
   {
     "id": "lx-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux开发工作流与综合项目进阶测试",
+    "description": "Linux开发工作流与综合项目进阶测试",
+    "slug": "linux开发工作流与综合项目进阶测试"
   },
   {
     "id": "lx-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Linux入门与Ubuntu环境进阶测试",
+    "description": "Linux入门与Ubuntu环境进阶测试",
+    "slug": "linux入门与ubuntu环境进阶测试"
   },
   {
     "id": "lx-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件系统与目录结构进阶测试",
+    "description": "文件系统与目录结构进阶测试",
+    "slug": "文件系统与目录结构进阶测试"
   },
   {
     "id": "lx-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文件与目录操作命令进阶测试",
+    "description": "文件与目录操作命令进阶测试",
+    "slug": "文件与目录操作命令进阶测试"
   },
   {
     "id": "lx-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "文本查看搜索与处理进阶测试",
+    "description": "文本查看搜索与处理进阶测试",
+    "slug": "文本查看搜索与处理进阶测试"
   },
   {
     "id": "lx-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "用户用户组与权限进阶测试",
+    "description": "用户用户组与权限进阶测试",
+    "slug": "用户用户组与权限进阶测试"
   },
   {
     "id": "lx-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "进程管理与系统状态进阶测试",
+    "description": "进程管理与系统状态进阶测试",
+    "slug": "进程管理与系统状态进阶测试"
   },
   {
     "id": "lx-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "软件包管理与开发环境进阶测试",
+    "description": "软件包管理与开发环境进阶测试",
+    "slug": "软件包管理与开发环境进阶测试"
   },
   {
     "id": "lx-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell基础与Bash进阶测试",
+    "description": "Shell基础与Bash进阶测试",
+    "slug": "shell基础与bash进阶测试"
   },
   {
     "id": "lx-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Shell变量条件与循环进阶测试",
+    "description": "Shell变量条件与循环进阶测试",
+    "slug": "shell变量条件与循环进阶测试"
   },
   {
     "id": "lx-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell函数脚本与自动化综合测试",
+    "description": "Shell函数脚本与自动化综合测试",
+    "slug": "shell函数脚本与自动化综合测试"
   },
   {
     "id": "lx-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "管道重定向与文本处理综合测试",
+    "description": "管道重定向与文本处理综合测试",
+    "slug": "管道重定向与文本处理综合测试"
   },
   {
     "id": "lx-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "网络命令与远程连接综合测试",
+    "description": "网络命令与远程连接综合测试",
+    "slug": "网络命令与远程连接综合测试"
   },
   {
     "id": "lx-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "日志定时任务与系统排错综合测试",
+    "description": "日志定时任务与系统排错综合测试",
+    "slug": "日志定时任务与系统排错综合测试"
   },
   {
     "id": "lx-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux开发工作流与综合项目综合测试",
+    "description": "Linux开发工作流与综合项目综合测试",
+    "slug": "linux开发工作流与综合项目综合测试"
   },
   {
     "id": "lx-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux入门与Ubuntu环境综合测试",
+    "description": "Linux入门与Ubuntu环境综合测试",
+    "slug": "linux入门与ubuntu环境综合测试"
   },
   {
     "id": "lx-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文件系统与目录结构综合测试",
+    "description": "文件系统与目录结构综合测试",
+    "slug": "文件系统与目录结构综合测试"
   },
   {
     "id": "lx-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文件与目录操作命令综合测试",
+    "description": "文件与目录操作命令综合测试",
+    "slug": "文件与目录操作命令综合测试"
   },
   {
     "id": "lx-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文本查看搜索与处理综合测试",
+    "description": "文本查看搜索与处理综合测试",
+    "slug": "文本查看搜索与处理综合测试"
   },
   {
     "id": "lx-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "用户用户组与权限综合测试",
+    "description": "用户用户组与权限综合测试",
+    "slug": "用户用户组与权限综合测试"
   },
   {
     "id": "lx-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "进程管理与系统状态综合测试",
+    "description": "进程管理与系统状态综合测试",
+    "slug": "进程管理与系统状态综合测试"
   },
   {
     "id": "lx-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件包管理与开发环境综合测试",
+    "description": "软件包管理与开发环境综合测试",
+    "slug": "软件包管理与开发环境综合测试"
   },
   {
     "id": "lx-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell基础与Bash综合测试",
+    "description": "Shell基础与Bash综合测试",
+    "slug": "shell基础与bash综合测试"
   },
   {
     "id": "lx-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell变量条件与循环综合测试",
+    "description": "Shell变量条件与循环综合测试",
+    "slug": "shell变量条件与循环综合测试"
   },
   {
     "id": "lx-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell函数脚本与自动化综合测试",
+    "description": "Shell函数脚本与自动化综合测试",
+    "slug": "shell函数脚本与自动化综合测试"
   },
   {
     "id": "lx-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "管道重定向与文本处理综合测试",
+    "description": "管道重定向与文本处理综合测试",
+    "slug": "管道重定向与文本处理综合测试"
   },
   {
     "id": "lx-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "网络命令与远程连接综合测试",
+    "description": "网络命令与远程连接综合测试",
+    "slug": "网络命令与远程连接综合测试"
   },
   {
     "id": "lx-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "日志定时任务与系统排错综合测试",
+    "description": "日志定时任务与系统排错综合测试",
+    "slug": "日志定时任务与系统排错综合测试"
   },
   {
     "id": "lx-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux开发工作流与综合项目综合测试",
+    "description": "Linux开发工作流与综合项目综合测试",
+    "slug": "linux开发工作流与综合项目综合测试"
   },
   {
     "id": "lx-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux入门与Ubuntu环境综合测试",
+    "description": "Linux入门与Ubuntu环境综合测试",
+    "slug": "linux入门与ubuntu环境综合测试"
   },
   {
     "id": "lx-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文件系统与目录结构综合测试",
+    "description": "文件系统与目录结构综合测试",
+    "slug": "文件系统与目录结构综合测试"
   },
   {
     "id": "lx-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "文件与目录操作命令"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文件与目录操作命令综合测试",
+    "description": "文件与目录操作命令综合测试",
+    "slug": "文件与目录操作命令综合测试"
   },
   {
     "id": "lx-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "文本查看搜索与处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文本查看搜索与处理综合测试",
+    "description": "文本查看搜索与处理综合测试",
+    "slug": "文本查看搜索与处理综合测试"
   },
   {
     "id": "lx-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "用户用户组与权限"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "用户用户组与权限综合测试",
+    "description": "用户用户组与权限综合测试",
+    "slug": "用户用户组与权限综合测试"
   },
   {
     "id": "lx-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "进程管理与系统状态"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "进程管理与系统状态综合测试",
+    "description": "进程管理与系统状态综合测试",
+    "slug": "进程管理与系统状态综合测试"
   },
   {
     "id": "lx-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "软件包管理与开发环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "软件包管理与开发环境综合测试",
+    "description": "软件包管理与开发环境综合测试",
+    "slug": "软件包管理与开发环境综合测试"
   },
   {
     "id": "lx-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "Shell基础与Bash"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell基础与Bash综合测试",
+    "description": "Shell基础与Bash综合测试",
+    "slug": "shell基础与bash综合测试"
   },
   {
     "id": "lx-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "Shell变量条件与循环"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell变量条件与循环综合测试",
+    "description": "Shell变量条件与循环综合测试",
+    "slug": "shell变量条件与循环综合测试"
   },
   {
     "id": "lx-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "Shell函数脚本与自动化"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Shell函数脚本与自动化综合测试",
+    "description": "Shell函数脚本与自动化综合测试",
+    "slug": "shell函数脚本与自动化综合测试"
   },
   {
     "id": "lx-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "管道重定向与文本处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "管道重定向与文本处理综合测试",
+    "description": "管道重定向与文本处理综合测试",
+    "slug": "管道重定向与文本处理综合测试"
   },
   {
     "id": "lx-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "网络命令与远程连接"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "网络命令与远程连接综合测试",
+    "description": "网络命令与远程连接综合测试",
+    "slug": "网络命令与远程连接综合测试"
   },
   {
     "id": "lx-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "日志定时任务与系统排错"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "日志定时任务与系统排错综合测试",
+    "description": "日志定时任务与系统排错综合测试",
+    "slug": "日志定时任务与系统排错综合测试"
   },
   {
     "id": "lx-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "Linux开发工作流与综合项目"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux开发工作流与综合项目综合测试",
+    "description": "Linux开发工作流与综合项目综合测试",
+    "slug": "linux开发工作流与综合项目综合测试"
   },
   {
     "id": "lx-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "Linux入门与Ubuntu环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "Linux入门与Ubuntu环境综合测试",
+    "description": "Linux入门与Ubuntu环境综合测试",
+    "slug": "linux入门与ubuntu环境综合测试"
   },
   {
     "id": "lx-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "文件系统与目录结构"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "文件系统与目录结构综合测试",
+    "description": "文件系统与目录结构综合测试",
+    "slug": "文件系统与目录结构综合测试"
   }
 ]
