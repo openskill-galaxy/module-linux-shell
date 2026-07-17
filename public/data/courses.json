@@ -1,596 +1,71 @@
 [
   {
-    "id": "lx-course-01",
+    "id": "mod-linux-shell-c-1",
+    "title": "Linux 与 Shell 基础 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 Linux 与 Shell 基础 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "Linux入门与Ubuntu环境",
-    "title": "Linux 入门与 Ubuntu 环境",
-    "description": "Linux概述、Ubuntu安装、终端使用、基础操作。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "Linux 入门与 Ubuntu 环境"
-    ],
-    "lessonIds": [
-      "lx-lesson-001",
-      "lx-lesson-002",
-      "lx-lesson-003",
-      "lx-lesson-004"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 47,
     "lessons": [
-      "lx-lesson-001",
-      "lx-lesson-002",
-      "lx-lesson-003",
-      "lx-lesson-004"
+      "mod-linux-shell-l-1",
+      "mod-linux-shell-l-2"
     ],
-    "summary": "Linux概述、Ubuntu安装、终端使用、基础操作。"
+    "tags": [
+      "Linux",
+      "Ubuntu",
+      "Shell",
+      "Bash",
+      "命令行",
+      "权限",
+      "进程",
+      "自动化脚本"
+    ]
   },
   {
-    "id": "lx-course-02",
+    "id": "mod-linux-shell-c-2",
+    "title": "Linux 与 Shell 基础 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 Linux 与 Shell 基础 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "文件系统与目录结构",
-    "title": "文件系统与目录结构",
-    "description": "Linux目录结构、FHS标准、绝对路径相对路径。",
-    "estimatedHours": 8,
     "difficulty": "easy",
-    "tags": [
-      "文件系统与目录结构"
-    ],
-    "lessonIds": [
-      "lx-lesson-005",
-      "lx-lesson-006",
-      "lx-lesson-007",
-      "lx-lesson-008",
-      "lx-lesson-009",
-      "lx-lesson-010",
-      "lx-lesson-011",
-      "lx-lesson-012"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 47,
     "lessons": [
-      "lx-lesson-005",
-      "lx-lesson-006",
-      "lx-lesson-007",
-      "lx-lesson-008",
-      "lx-lesson-009",
-      "lx-lesson-010",
-      "lx-lesson-011",
-      "lx-lesson-012"
+      "mod-linux-shell-l-3",
+      "mod-linux-shell-l-4"
     ],
-    "summary": "Linux目录结构、FHS标准、绝对路径相对路径。"
+    "tags": [
+      "Linux",
+      "Ubuntu",
+      "Shell",
+      "Bash",
+      "命令行",
+      "权限",
+      "进程",
+      "自动化脚本"
+    ]
   },
   {
-    "id": "lx-course-03",
+    "id": "mod-linux-shell-c-3",
+    "title": "Linux 与 Shell 基础 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "文件与目录操作命令",
-    "title": "文件与目录操作命令",
-    "description": "ls/cd/mkdir/rm/cp/mv/touch等文件操作命令详解。",
-    "estimatedHours": 10,
     "difficulty": "easy",
-    "tags": [
-      "文件与目录操作命令"
-    ],
-    "lessonIds": [
-      "lx-lesson-013",
-      "lx-lesson-014",
-      "lx-lesson-015",
-      "lx-lesson-016",
-      "lx-lesson-017",
-      "lx-lesson-018",
-      "lx-lesson-019",
-      "lx-lesson-020",
-      "lx-lesson-021",
-      "lx-lesson-022",
-      "lx-lesson-023"
-    ],
-    "totalLessons": 11,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 47,
     "lessons": [
-      "lx-lesson-013",
-      "lx-lesson-014",
-      "lx-lesson-015",
-      "lx-lesson-016",
-      "lx-lesson-017",
-      "lx-lesson-018",
-      "lx-lesson-019",
-      "lx-lesson-020",
-      "lx-lesson-021",
-      "lx-lesson-022",
-      "lx-lesson-023"
+      "mod-linux-shell-l-5",
+      "mod-linux-shell-l-6"
     ],
-    "summary": "ls/cd/mkdir/rm/cp/mv/touch等文件操作命令详解。"
-  },
-  {
-    "id": "lx-course-04",
-    "order": 4,
-    "slug": "文本查看搜索与处理",
-    "title": "文本查看、搜索与处理",
-    "description": "cat/less/head/tail/grep/sed/awk/sort/uniq/wc。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
     "tags": [
-      "文本查看、搜索与处理"
-    ],
-    "lessonIds": [
-      "lx-lesson-024",
-      "lx-lesson-025",
-      "lx-lesson-026",
-      "lx-lesson-027",
-      "lx-lesson-028",
-      "lx-lesson-029",
-      "lx-lesson-030",
-      "lx-lesson-031",
-      "lx-lesson-032",
-      "lx-lesson-033"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-024",
-      "lx-lesson-025",
-      "lx-lesson-026",
-      "lx-lesson-027",
-      "lx-lesson-028",
-      "lx-lesson-029",
-      "lx-lesson-030",
-      "lx-lesson-031",
-      "lx-lesson-032",
-      "lx-lesson-033"
-    ],
-    "summary": "cat/less/head/tail/grep/sed/awk/sort/uniq/wc。"
-  },
-  {
-    "id": "lx-course-05",
-    "order": 5,
-    "slug": "用户用户组与权限",
-    "title": "用户、用户组与权限",
-    "description": "用户管理、用户组、文件权限、sudo、chmod/chown。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "用户、用户组与权限"
-    ],
-    "lessonIds": [
-      "lx-lesson-034",
-      "lx-lesson-035",
-      "lx-lesson-036",
-      "lx-lesson-037",
-      "lx-lesson-038",
-      "lx-lesson-039",
-      "lx-lesson-040",
-      "lx-lesson-041",
-      "lx-lesson-042",
-      "lx-lesson-043"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-034",
-      "lx-lesson-035",
-      "lx-lesson-036",
-      "lx-lesson-037",
-      "lx-lesson-038",
-      "lx-lesson-039",
-      "lx-lesson-040",
-      "lx-lesson-041",
-      "lx-lesson-042",
-      "lx-lesson-043"
-    ],
-    "summary": "用户管理、用户组、文件权限、sudo、chmod/chown。"
-  },
-  {
-    "id": "lx-course-06",
-    "order": 6,
-    "slug": "进程管理与系统状态",
-    "title": "进程管理与系统状态",
-    "description": "ps/top/kill/systemctl/journalctl、系统状态查看。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "进程管理与系统状态"
-    ],
-    "lessonIds": [
-      "lx-lesson-044",
-      "lx-lesson-045",
-      "lx-lesson-046",
-      "lx-lesson-047",
-      "lx-lesson-048",
-      "lx-lesson-049",
-      "lx-lesson-050",
-      "lx-lesson-051",
-      "lx-lesson-052",
-      "lx-lesson-053"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-044",
-      "lx-lesson-045",
-      "lx-lesson-046",
-      "lx-lesson-047",
-      "lx-lesson-048",
-      "lx-lesson-049",
-      "lx-lesson-050",
-      "lx-lesson-051",
-      "lx-lesson-052",
-      "lx-lesson-053"
-    ],
-    "summary": "ps/top/kill/systemctl/journalctl、系统状态查看。"
-  },
-  {
-    "id": "lx-course-07",
-    "order": 7,
-    "slug": "软件包管理与开发环境",
-    "title": "软件包管理与开发环境",
-    "description": "apt/yum/dpkg、源配置、开发环境安装。",
-    "estimatedHours": 8,
-    "difficulty": "medium",
-    "tags": [
-      "软件包管理与开发环境"
-    ],
-    "lessonIds": [
-      "lx-lesson-054",
-      "lx-lesson-055",
-      "lx-lesson-056",
-      "lx-lesson-057",
-      "lx-lesson-058",
-      "lx-lesson-059",
-      "lx-lesson-060"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-054",
-      "lx-lesson-055",
-      "lx-lesson-056",
-      "lx-lesson-057",
-      "lx-lesson-058",
-      "lx-lesson-059",
-      "lx-lesson-060"
-    ],
-    "summary": "apt/yum/dpkg、源配置、开发环境安装。"
-  },
-  {
-    "id": "lx-course-08",
-    "order": 8,
-    "slug": "Shell基础与Bash",
-    "title": "Shell 基础与 Bash",
-    "description": "Bash特点、命令类型、别名、历史、Tab补全。",
-    "estimatedHours": 8,
-    "difficulty": "medium",
-    "tags": [
-      "Shell 基础与 Bash"
-    ],
-    "lessonIds": [
-      "lx-lesson-061",
-      "lx-lesson-062",
-      "lx-lesson-063",
-      "lx-lesson-064",
-      "lx-lesson-065",
-      "lx-lesson-066"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-061",
-      "lx-lesson-062",
-      "lx-lesson-063",
-      "lx-lesson-064",
-      "lx-lesson-065",
-      "lx-lesson-066"
-    ],
-    "summary": "Bash特点、命令类型、别名、历史、Tab补全。"
-  },
-  {
-    "id": "lx-course-09",
-    "order": 9,
-    "slug": "Shell变量条件与循环",
-    "title": "Shell 变量、条件与循环",
-    "description": "变量定义、if/case/for/while、算术运算、test。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "Shell 变量、条件与循环"
-    ],
-    "lessonIds": [
-      "lx-lesson-067",
-      "lx-lesson-068",
-      "lx-lesson-069",
-      "lx-lesson-070",
-      "lx-lesson-071",
-      "lx-lesson-072",
-      "lx-lesson-073",
-      "lx-lesson-074",
-      "lx-lesson-075",
-      "lx-lesson-076"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-067",
-      "lx-lesson-068",
-      "lx-lesson-069",
-      "lx-lesson-070",
-      "lx-lesson-071",
-      "lx-lesson-072",
-      "lx-lesson-073",
-      "lx-lesson-074",
-      "lx-lesson-075",
-      "lx-lesson-076"
-    ],
-    "summary": "变量定义、if/case/for/while、算术运算、test。"
-  },
-  {
-    "id": "lx-course-10",
-    "order": 10,
-    "slug": "Shell函数脚本与自动化",
-    "title": "Shell 函数、脚本与自动化",
-    "description": "函数定义、脚本参数、退出码、调试、自动化脚本。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "Shell 函数、脚本与自动化"
-    ],
-    "lessonIds": [
-      "lx-lesson-077",
-      "lx-lesson-078",
-      "lx-lesson-079",
-      "lx-lesson-080",
-      "lx-lesson-081",
-      "lx-lesson-082"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-077",
-      "lx-lesson-078",
-      "lx-lesson-079",
-      "lx-lesson-080",
-      "lx-lesson-081",
-      "lx-lesson-082"
-    ],
-    "summary": "函数定义、脚本参数、退出码、调试、自动化脚本。"
-  },
-  {
-    "id": "lx-course-11",
-    "order": 11,
-    "slug": "管道重定向与文本处理",
-    "title": "管道、重定向与文本处理",
-    "description": "管道|、重定向>、输入输出、文本处理工具组合。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "管道、重定向与文本处理"
-    ],
-    "lessonIds": [
-      "lx-lesson-083",
-      "lx-lesson-084",
-      "lx-lesson-085",
-      "lx-lesson-086",
-      "lx-lesson-087",
-      "lx-lesson-088"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-083",
-      "lx-lesson-084",
-      "lx-lesson-085",
-      "lx-lesson-086",
-      "lx-lesson-087",
-      "lx-lesson-088"
-    ],
-    "summary": "管道|、重定向>、输入输出、文本处理工具组合。"
-  },
-  {
-    "id": "lx-course-12",
-    "order": 12,
-    "slug": "网络命令与远程连接",
-    "title": "网络命令与远程连接",
-    "description": "ssh/scp/curl/wget/ping/ss/netstat/traceroute。",
-    "estimatedHours": 10,
-    "difficulty": "medium",
-    "tags": [
-      "网络命令与远程连接"
-    ],
-    "lessonIds": [
-      "lx-lesson-089",
-      "lx-lesson-090",
-      "lx-lesson-091",
-      "lx-lesson-092",
-      "lx-lesson-093",
-      "lx-lesson-094",
-      "lx-lesson-095",
-      "lx-lesson-096"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-089",
-      "lx-lesson-090",
-      "lx-lesson-091",
-      "lx-lesson-092",
-      "lx-lesson-093",
-      "lx-lesson-094",
-      "lx-lesson-095",
-      "lx-lesson-096"
-    ],
-    "summary": "ssh/scp/curl/wget/ping/ss/netstat/traceroute。"
-  },
-  {
-    "id": "lx-course-13",
-    "order": 13,
-    "slug": "日志定时任务与系统排错",
-    "title": "日志、定时任务与系统排错",
-    "description": "crontab/systemd-timer/logrotate、系统故障排查。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "日志、定时任务与系统排错"
-    ],
-    "lessonIds": [
-      "lx-lesson-097",
-      "lx-lesson-098",
-      "lx-lesson-099",
-      "lx-lesson-100",
-      "lx-lesson-101"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-097",
-      "lx-lesson-098",
-      "lx-lesson-099",
-      "lx-lesson-100",
-      "lx-lesson-101"
-    ],
-    "summary": "crontab/systemd-timer/logrotate、系统故障排查。"
-  },
-  {
-    "id": "lx-course-14",
-    "order": 14,
-    "slug": "Linux开发工作流与综合项目",
-    "title": "Linux 开发工作流与综合项目",
-    "description": "开发环境配置、服务器部署、自动化脚本、综合项目。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "Linux 开发工作流与综合项目"
-    ],
-    "lessonIds": [
-      "lx-lesson-102",
-      "lx-lesson-103",
-      "lx-lesson-104",
-      "lx-lesson-105",
-      "lx-lesson-106",
-      "lx-lesson-107",
-      "lx-lesson-108"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "熟练Linux命令",
-      "能编写Shell脚本",
-      "会系统管理",
-      "具备开发环境配置能力"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "lx-lesson-102",
-      "lx-lesson-103",
-      "lx-lesson-104",
-      "lx-lesson-105",
-      "lx-lesson-106",
-      "lx-lesson-107",
-      "lx-lesson-108"
-    ],
-    "summary": "开发环境配置、服务器部署、自动化脚本、综合项目。"
+      "Linux",
+      "Ubuntu",
+      "Shell",
+      "Bash",
+      "命令行",
+      "权限",
+      "进程",
+      "自动化脚本"
+    ]
   }
 ]
