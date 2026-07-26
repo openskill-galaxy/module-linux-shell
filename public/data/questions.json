@@ -1,218 +1,778 @@
 [
   {
     "id": "mod-linux-shell-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "执行 chmod 754 script.sh 后，文件 script.sh 的权限是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "所有者可读写执行，同组用户可读执行，其他用户只读"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "所有者可读写执行，同组用户只读，其他用户可读执行"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "所有者可读写，同组用户可读执行，其他用户可写"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "所有用户均可读写执行"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 环境依赖搭建与运行机制”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "八进制权限中 r=4、w=2、x=1。754 拆解为：所有者 7=rwx（读写执行），同组 5=r-x（读和执行），其他 4=r--（只读）。因此 A 正确。B 把同组和其他的权限弄反了；C 对应的是 65x 类组合；D 对应 777。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "权限",
+      "chmod"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-linux-shell-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "在终端中查看当前所在目录的绝对路径，应该使用哪个命令？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "pwd"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "cd"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "ls -l"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "whereis"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 配置文件覆盖与属性解析”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "pwd（print working directory）用于打印当前工作目录的绝对路径。cd 用于切换目录；ls -l 列出目录内容的详细信息；whereis 用于查找命令的二进制文件、源码和手册页位置，均不能显示当前目录。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "命令行",
+      "基础命令"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 1
   },
   {
     "id": "mod-linux-shell-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "想在 /var/www 目录下递归查找所有包含字符串 \"TODO\" 的文件，并且只列出文件名（不显示匹配行内容），正确的命令是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "grep -rl \"TODO\" /var/www"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "grep -c \"TODO\" /var/www"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "find /var/www -name \"TODO\""
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "grep -v \"TODO\" /var/www/*"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 API 接口规范与数据通信”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "grep 的 -r 表示递归搜索目录，-l（--files-with-matches）表示只输出包含匹配的文件名。B 中 -c 是统计匹配行数且未加 -r；C 的 find -name 是按文件名查找而不是按内容；D 的 -v 是反向匹配（输出不包含该字符串的行），语义完全相反。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "grep",
+      "文本处理"
     ],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-linux-shell-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-linux-shell-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "文件 a.txt 存在一个硬链接 b.txt 和一个符号链接 c.txt。现在执行 rm a.txt 删除原文件，下列说法正确的是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "b.txt 仍可正常读取内容，c.txt 变成悬空链接无法访问"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "b.txt 和 c.txt 都无法再访问内容"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "c.txt 仍可正常读取内容，b.txt 无法访问"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "b.txt 和 c.txt 都仍能正常读取内容"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 核心控制器与数据校验机制”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "硬链接与原文件共享同一个 inode，rm a.txt 只是把该 inode 的链接计数减 1，只要还有 b.txt 指向它，数据块就不会被释放，因此 b.txt 仍可读。符号链接 c.txt 存储的是路径字符串 \"a.txt\"，目标路径被删除后它就成了悬空链接（dangling symlink），访问会报 No such file or directory。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "文件系统",
+      "inode",
+      "链接"
     ],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-linux-shell-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-linux-shell-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "关于 kill -15（SIGTERM）与 kill -9（SIGKILL）的区别，下列说法正确的是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "SIGTERM 可以被进程捕获并做清理后退出，SIGKILL 不能被捕获或忽略，由内核直接终止进程"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "SIGKILL 更温和，会等待进程释放资源后再退出"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "两者效果完全相同，只是编号不同"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "SIGTERM 只能由 root 用户发送"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "SIGTERM(15) 是默认的终止信号，进程可以注册信号处理函数捕获它，完成刷盘、关闭连接等清理工作后优雅退出，也可以选择忽略。SIGKILL(9) 无法被捕获、阻塞或忽略，内核直接销毁进程，可能导致数据丢失，因此应先尝试 SIGTERM。信号发送权限取决于进程属主而非信号类型，普通用户可以向自己的进程发送任意信号。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "进程",
+      "信号"
     ],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-linux-shell-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-linux-shell-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [Linux 与 Shell 基础] 的过程里，关于“Linux 与 Shell 基础 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "在 Bash 中，特殊变量 $? 的含义是？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "上一条命令的退出状态码，0 表示成功"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "当前 Shell 进程的 PID"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "传给脚本的参数个数"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "上一个后台任务的 PID"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“Linux 与 Shell 基础 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 Linux 与 Shell 基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "$? 保存上一条前台命令的退出状态码（exit status），0 表示成功，非 0 表示各种失败。当前 Shell 的 PID 是 $$；参数个数是 $#；上一个后台任务的 PID 是 $!。",
     "tags": [
-      "Linux 与 Shell 基础",
-      "基础考点"
+      "Bash",
+      "特殊变量"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "命令 ./run.sh > out.log 2>&1 与 ./run.sh 2>&1 > out.log 的区别是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "前者把 stdout 和 stderr 都写入 out.log；后者 stderr 仍输出到终端，只有 stdout 进入 out.log"
+      },
+      {
+        "key": "B",
+        "text": "两者完全等价，重定向顺序不影响结果"
+      },
+      {
+        "key": "C",
+        "text": "前者只记录 stderr，后者只记录 stdout"
+      },
+      {
+        "key": "D",
+        "text": "后者会报语法错误，2>&1 必须写在最后"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "重定向从左到右依次生效。前者：先把 fd1 指向 out.log，再把 fd2 复制为 fd1 当前的指向（out.log），于是两者都进文件。后者：先把 fd2 复制为 fd1 当前的指向（终端），再把 fd1 改到 out.log，此时 fd2 仍指向终端。因此顺序至关重要，B 错误；两种写法都合法，D 错误。",
+    "tags": [
+      "重定向",
+      "文件描述符"
     ],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-linux-shell-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "要解压一个名为 backup.tar.gz 的压缩包到当前目录，正确的命令是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "tar -xzf backup.tar.gz"
+      },
+      {
+        "key": "B",
+        "text": "tar -czf backup.tar.gz"
+      },
+      {
+        "key": "C",
+        "text": "gzip -d backup.tar.gz && rm backup.tar"
+      },
+      {
+        "key": "D",
+        "text": "unzip backup.tar.gz"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "tar 的 -x 表示解包（extract），-z 表示经过 gzip 压缩，-f 指定文件名，因此 -xzf 正确。B 中 -c 是创建归档，会把当前目录打包并覆盖原文件；C 只做了 gunzip 得到 backup.tar 却又把它删掉，并没有展开内容；D 的 unzip 用于 .zip 格式，不能处理 .tar.gz。",
+    "tags": [
+      "tar",
+      "压缩打包"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "服务器上 8080 端口被某个进程占用，想找出占用该端口的进程 PID，下列哪个命令最合适？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ss -tlnp | grep 8080"
+      },
+      {
+        "key": "B",
+        "text": "ps aux | grep 8080"
+      },
+      {
+        "key": "C",
+        "text": "top -p 8080"
+      },
+      {
+        "key": "D",
+        "text": "netstat -r"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "ss -tlnp 分别表示：t（TCP）、l（监听状态）、n（数字形式显示端口）、p（显示进程信息），配合 grep 可直接定位监听 8080 的进程及 PID，等价的老命令是 netstat -tlnp。B 的 ps aux 按进程列表过滤字符串 8080，只有当命令行恰好包含该数字时才碰巧有效，不可靠；C 的 top -p 是按 PID 监控进程而非按端口；D 的 netstat -r 显示的是路由表。",
+    "tags": [
+      "网络命令",
+      "ss",
+      "端口"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "crontab 中的条目 */5 2 * * 1 /opt/task.sh 表示任务在什么时间执行？",
+    "options": [
+      {
+        "key": "A",
+        "text": "每周一凌晨 2 点内，每隔 5 分钟执行一次"
+      },
+      {
+        "key": "B",
+        "text": "每天凌晨 2 点 05 分执行一次"
+      },
+      {
+        "key": "C",
+        "text": "每 5 分钟执行一次，全天不间断"
+      },
+      {
+        "key": "D",
+        "text": "每月 1 号凌晨 2 点每 5 分钟执行一次"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "cron 五个字段依次为：分 时 日 月 周。*/5 表示每隔 5 分钟，2 表示 2 点，日和月为 *，周字段为 1 即周一。组合起来：每周一的 02:00 到 02:55 之间每 5 分钟执行一次。C 忽略了小时与周字段的限制；D 把周字段误认成了日字段。",
+    "tags": [
+      "crontab",
+      "定时任务"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "目录中有文件名带空格的文件（如 \"my report.txt\"）。下列哪种脚本写法能安全地遍历当前目录下所有 .txt 文件？",
+    "options": [
+      {
+        "key": "A",
+        "text": "for f in *.txt; do echo \"$f\"; done"
+      },
+      {
+        "key": "B",
+        "text": "for f in $(ls *.txt); do echo $f; done"
+      },
+      {
+        "key": "C",
+        "text": "ls *.txt | while read f; do rm $f; done"
+      },
+      {
+        "key": "D",
+        "text": "for f in `ls`; do echo \"$f\"; done"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "直接使用 glob 展开（for f in *.txt）时，每个文件名作为一个完整的词传入循环，再配合引用 \"$f\" 即可安全处理含空格的文件名。B 和 D 使用 $(ls) 或反引号，其输出会经过分词（word splitting），\"my report.txt\" 会被拆成 \"my\" 和 \"report.txt\" 两项；C 除了解析 ls 输出的问题外，rm $f 未加引号同样会被分词，非常危险。",
+    "tags": [
+      "Shell脚本",
+      "引用",
+      "分词"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-linux-shell-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "通过 SSH 登录服务器后想启动一个长时间运行的任务，并保证退出登录后任务继续运行且输出被保存，下列做法正确的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "nohup ./long_task.sh > task.log 2>&1 &"
+      },
+      {
+        "key": "B",
+        "text": "./long_task.sh &"
+      },
+      {
+        "key": "C",
+        "text": "./long_task.sh > task.log"
+      },
+      {
+        "key": "D",
+        "text": "exec ./long_task.sh"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "nohup 使进程忽略 SIGHUP 信号（终端断开时会话发出），& 让它进入后台，重定向把 stdout/stderr 保存到日志，三者组合满足需求（也可用 tmux/screen 或 setsid）。B 只放到后台，登出时仍可能收到 SIGHUP 被终止；C 是前台运行，退出登录任务即中断；D 的 exec 会用任务替换当前 Shell，登出问题依旧存在。",
+    "tags": [
+      "进程",
+      "nohup",
+      "后台任务"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "命令 find /var/log -name \"*.log\" -mtime +7 -delete 的作用是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "删除 /var/log 下修改时间在 7 天以前的所有 .log 文件"
+      },
+      {
+        "key": "B",
+        "text": "删除 /var/log 下最近 7 天内修改过的 .log 文件"
+      },
+      {
+        "key": "C",
+        "text": "删除 /var/log 下第 7 天当天修改的 .log 文件"
+      },
+      {
+        "key": "D",
+        "text": "只列出而不删除超过 7 天的 .log 文件"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "-mtime +7 表示文件内容最后修改时间距今超过 7 天（严格说是超过 7 个 24 小时周期）；-delete 执行删除。最近 7 天内修改对应 -mtime -7；恰好第 7 天对应 -mtime 7（不带符号）。该命令是清理过期日志的常见写法，D 描述的是不加 -delete 的行为。",
+    "tags": [
+      "find",
+      "日志清理"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "应用写文件时报错 \"No space left on device\"，但 df -h 显示磁盘使用率只有 60%。最可能的原因是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "文件系统的 inode 已被耗尽（大量小文件），可用 df -i 验证"
+      },
+      {
+        "key": "B",
+        "text": "磁盘物理坏道导致写入失败"
+      },
+      {
+        "key": "C",
+        "text": "df 命令缓存过期，实际磁盘已满"
+      },
+      {
+        "key": "D",
+        "text": "内存不足导致无法写入磁盘"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "ext4 等文件系统在创建时会分配固定数量的 inode，每个文件/目录占用一个。当存在海量小文件（如缓存、会话文件、邮件队列）时，inode 可能在数据块用完之前先耗尽，此时即使还有剩余空间也无法创建新文件，报错与磁盘满相同。df -i 可查看 inode 使用率。坏道通常报 I/O error 而非空间不足；df 读取实时的文件系统统计，没有所谓缓存过期；内存不足报错为 Cannot allocate memory。",
+    "tags": [
+      "文件系统",
+      "inode",
+      "故障排查"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-linux-shell-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列哪些命令可以用来查看文本文件的内容？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "cat"
+      },
+      {
+        "key": "B",
+        "text": "less"
+      },
+      {
+        "key": "C",
+        "text": "touch"
+      },
+      {
+        "key": "D",
+        "text": "head"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "cat 一次性输出整个文件；less 分页浏览，支持上下滚动和搜索，适合大文件；head 查看文件开头若干行（默认 10 行）。touch 用于创建空文件或更新文件的时间戳，不显示内容。",
+    "tags": [
+      "基础命令",
+      "文件查看"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于 Bash 脚本开头常写的 set -euo pipefail，下列说法正确的有？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "-e 使脚本在任一命令返回非零状态时立即退出"
+      },
+      {
+        "key": "B",
+        "text": "-u 使引用未定义变量时报错退出，而不是展开为空串"
+      },
+      {
+        "key": "C",
+        "text": "pipefail 使管道的退出状态取决于最后一个失败命令，而不只是最后一个命令"
+      },
+      {
+        "key": "D",
+        "text": "-o 表示以只读模式运行脚本，禁止写文件"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "set -e（errexit）让脚本遇到失败命令即退出，避免错误被静默吞掉；set -u（nounset）把未定义变量当作错误，能拦住 rm -rf \"$DIR/\" 中 DIR 拼写错误这类事故；set -o pipefail 让 cmd1 | cmd2 在 cmd1 失败时整个管道也返回非零。D 完全错误：-o 只是指定选项名的前缀（如 -o pipefail），Bash 没有只读运行模式这一说法。",
+    "tags": [
+      "Shell脚本",
+      "健壮性",
+      "set"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-linux-shell-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "以下哪些做法有助于提升 Shell 脚本在生产环境中的健壮性和可维护性？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "所有变量展开都加双引号，如 \"$file\""
+      },
+      {
+        "key": "B",
+        "text": "用 trap 'cleanup' EXIT 注册退出时的清理逻辑"
+      },
+      {
+        "key": "C",
+        "text": "关键路径写成硬编码的相对路径，依赖调用者所在目录"
+      },
+      {
+        "key": "D",
+        "text": "使用 shellcheck 对脚本做静态检查"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "双引号防止分词和 glob 意外展开；trap ... EXIT 保证无论正常结束还是中途出错都会执行清理（删除临时文件、释放锁等）；shellcheck 能静态发现引用缺失、逻辑陷阱等大量常见错误。C 是反模式：依赖调用者的当前目录会让脚本在 cron 或其他目录下运行时行为异常，应使用绝对路径或基于脚本自身位置（dirname \"$0\"）解析。",
+    "tags": [
+      "Shell脚本",
+      "最佳实践"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于 Linux 僵尸进程（zombie process），下列说法正确的有？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "僵尸进程是已终止但其父进程尚未调用 wait() 回收退出状态的进程"
+      },
+      {
+        "key": "B",
+        "text": "对僵尸进程执行 kill -9 可以直接清除它"
+      },
+      {
+        "key": "C",
+        "text": "杀掉其父进程后，僵尸进程会被 init/systemd 收养并很快被回收"
+      },
+      {
+        "key": "D",
+        "text": "僵尸进程本身几乎不占内存和 CPU，但会占用进程表项，大量堆积可能耗尽 PID"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "进程退出后内核保留其退出状态等待父进程 wait()/waitpid() 读取，在此之前它以 Z 状态存在于进程表中。它已经死亡，无法再接收任何信号，所以 kill -9 无效（B 错误）；正确的清理方式是让父进程调用 wait，或杀掉父进程使僵尸被 PID 1 收养——init/systemd 会立即 wait 回收。僵尸不占用 CPU 和常规内存，但每个占一个 PID/进程表项，大规模泄漏会导致无法创建新进程。",
+    "tags": [
+      "进程",
+      "僵尸进程"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-linux-shell-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-linux-shell-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "在 Linux 系统中，root 用户的 UID 固定为 0。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。内核判断特权身份依据的是 UID 是否为 0，而不是用户名叫不叫 root。任何 UID 为 0 的账号都拥有超级用户权限，这也是安全审计中要检查 /etc/passwd 里是否存在多个 UID 0 账号的原因。",
+    "tags": [
+      "用户管理",
+      "权限"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-linux-shell-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "在生产服务器上遇到权限问题时，直接执行 chmod -R 777 是推荐的快速解决方案。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。777 意味着任何用户都可读、写、执行，会带来严重安全隐患：攻击者或失误操作可以篡改、植入任意文件；某些程序（如 SSH 对私钥、部分服务对配置文件）检测到权限过宽甚至会拒绝运行。正确做法是定位真正需要访问的用户/组，用最小权限原则设置属主（chown）和权限位。",
+    "tags": [
+      "权限",
+      "安全"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-linux-shell-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "默认情况下，管道符 | 只传递前一个命令的标准输出（stdout），标准错误（stderr）不会进入管道。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。管道连接的是前一个命令的 fd1（stdout）和后一个命令的 stdin，stderr（fd2）默认仍指向终端。因此 cmd | grep error 抓不到错误输出；如需把 stderr 也送入管道，要写 cmd 2>&1 | grep error，或使用 Bash 的简写 cmd |& grep error。",
+    "tags": [
+      "管道",
+      "重定向"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "在脚本中执行 export MY_VAR=hello 后，启动该脚本的父 Shell 里也能读到 MY_VAR 的值。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。环境变量只能从父进程传递给子进程，方向不可逆。脚本在子进程中运行，export 只影响该子进程及其后代，脚本退出后变量随之消失，父 Shell 不受影响。若想让变量在当前 Shell 生效，应使用 source script.sh（或 . script.sh）在当前进程中执行脚本。",
+    "tags": [
+      "环境变量",
+      "进程"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "写出以人类可读格式（GB/MB 等单位）查看各文件系统磁盘空间使用情况的命令。",
+    "options": [],
+    "answer": [
+      "df -h|df -h .|df --human-readable"
+    ],
+    "explanation": "df（disk free）报告各挂载文件系统的总容量、已用、可用空间，-h（--human-readable）把字节数换算成 K/M/G 单位便于阅读。注意与 du 区分：du 统计的是指定目录/文件占用的空间，df 统计整个文件系统。",
+    "tags": [
+      "磁盘管理",
+      "df"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-linux-shell-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "排查线上问题时，需要实时滚动查看日志文件 /var/log/app.log 新追加的内容，应使用什么命令？",
+    "options": [],
+    "answer": [
+      "tail -f /var/log/app.log|tail -F /var/log/app.log|tail -f|tail -F"
+    ],
+    "explanation": "tail -f 持续跟踪文件末尾，新写入的行会实时输出到终端，是查看滚动日志的标准做法。tail -F 更进一步：当日志被 logrotate 轮转（重命名并新建）后会自动重新打开同名文件继续跟踪，生产环境中更稳妥。",
+    "tags": [
+      "日志",
+      "tail"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]

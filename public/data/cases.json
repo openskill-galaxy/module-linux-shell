@@ -5,11 +5,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002342",
-      "lx-q-001551",
-      "lx-q-000597"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -29,11 +25,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003446",
-      "lx-q-002202",
-      "lx-q-002829"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -53,11 +45,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000215",
-      "lx-q-003116",
-      "lx-q-002188"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -77,11 +65,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002420",
-      "lx-q-001435",
-      "lx-q-003281"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -101,11 +85,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003001",
-      "lx-q-001073",
-      "lx-q-002271"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -125,11 +105,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003592",
-      "lx-q-002403",
-      "lx-q-001962"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -149,11 +125,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000135",
-      "lx-q-001461",
-      "lx-q-002638"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -173,11 +145,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000182",
-      "lx-q-001522",
-      "lx-q-001800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -197,11 +165,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003578",
-      "lx-q-003446",
-      "lx-q-001863"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -221,11 +185,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001234",
-      "lx-q-000671",
-      "lx-q-000142"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -245,11 +205,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000109",
-      "lx-q-003180",
-      "lx-q-001977"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -269,11 +225,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003089",
-      "lx-q-002606",
-      "lx-q-003001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -293,11 +245,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002768",
-      "lx-q-003100",
-      "lx-q-002450"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -317,11 +265,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002691",
-      "lx-q-001213",
-      "lx-q-001262"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -341,11 +285,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000110",
-      "lx-q-001962",
-      "lx-q-003175"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -365,11 +305,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002085",
-      "lx-q-002586",
-      "lx-q-003180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -389,11 +325,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001693",
-      "lx-q-001372",
-      "lx-q-002297"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -413,11 +345,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000064",
-      "lx-q-003464",
-      "lx-q-002346"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -437,11 +365,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000108",
-      "lx-q-000958",
-      "lx-q-001874"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -461,11 +385,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002804",
-      "lx-q-000110",
-      "lx-q-001053"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -485,11 +405,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001410",
-      "lx-q-003700",
-      "lx-q-001885"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -509,11 +425,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002924",
-      "lx-q-000648",
-      "lx-q-001444"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -533,11 +445,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002247",
-      "lx-q-000465",
-      "lx-q-002277"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -557,11 +465,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002153",
-      "lx-q-002038",
-      "lx-q-001756"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -581,11 +485,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000201",
-      "lx-q-002272",
-      "lx-q-000931"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -605,11 +505,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003631",
-      "lx-q-003042",
-      "lx-q-000766"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -629,11 +525,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002639",
-      "lx-q-003244",
-      "lx-q-001019"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -653,11 +545,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001361",
-      "lx-q-001771",
-      "lx-q-000899"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -677,11 +565,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000945",
-      "lx-q-002010",
-      "lx-q-001052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -701,11 +585,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003148",
-      "lx-q-003039",
-      "lx-q-001789"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -725,11 +605,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002330",
-      "lx-q-000673",
-      "lx-q-003282"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -749,11 +625,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000603",
-      "lx-q-000707",
-      "lx-q-003194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -773,11 +645,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002445",
-      "lx-q-000738",
-      "lx-q-001578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -797,11 +665,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003137",
-      "lx-q-001588",
-      "lx-q-001910"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -821,11 +685,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003009",
-      "lx-q-001116",
-      "lx-q-000938"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -845,11 +705,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000421",
-      "lx-q-002628",
-      "lx-q-002360"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -869,11 +725,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002257",
-      "lx-q-001520",
-      "lx-q-000534"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -893,11 +745,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000380",
-      "lx-q-002119",
-      "lx-q-002550"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -917,11 +765,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001790",
-      "lx-q-002548",
-      "lx-q-003239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -941,11 +785,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000108",
-      "lx-q-000340",
-      "lx-q-000878"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -965,11 +805,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002928",
-      "lx-q-003233",
-      "lx-q-003155"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -989,11 +825,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001828",
-      "lx-q-001577",
-      "lx-q-001699"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000319",
-      "lx-q-000623",
-      "lx-q-001098"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001237",
-      "lx-q-002286",
-      "lx-q-002832"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001179",
-      "lx-q-003098",
-      "lx-q-000746"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001262",
-      "lx-q-000064",
-      "lx-q-003615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003446",
-      "lx-q-003169",
-      "lx-q-003347"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001498",
-      "lx-q-000534",
-      "lx-q-000625"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000941",
-      "lx-q-003564",
-      "lx-q-000760"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002622",
-      "lx-q-002789",
-      "lx-q-002145"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003374",
-      "lx-q-001878",
-      "lx-q-001547"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001156",
-      "lx-q-002822",
-      "lx-q-002573"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002947",
-      "lx-q-001082",
-      "lx-q-002755"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003511",
-      "lx-q-000257",
-      "lx-q-002521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003167",
-      "lx-q-001322",
-      "lx-q-003433"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000161",
-      "lx-q-001532",
-      "lx-q-000637"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000753",
-      "lx-q-003384",
-      "lx-q-000131"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003053",
-      "lx-q-002230",
-      "lx-q-001451"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003513",
-      "lx-q-001044",
-      "lx-q-002373"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002582",
-      "lx-q-003248",
-      "lx-q-002364"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002103",
-      "lx-q-003305",
-      "lx-q-003409"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000462",
-      "lx-q-000665",
-      "lx-q-000402"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003344",
-      "lx-q-000769",
-      "lx-q-002916"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003594",
-      "lx-q-001035",
-      "lx-q-001278"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003385",
-      "lx-q-000327",
-      "lx-q-000687"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001889",
-      "lx-q-003008",
-      "lx-q-003541"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002668",
-      "lx-q-002422",
-      "lx-q-001070"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001031",
-      "lx-q-001064",
-      "lx-q-002036"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001357",
-      "lx-q-000018",
-      "lx-q-002712"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003512",
-      "lx-q-000321",
-      "lx-q-000603"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-002802",
-      "lx-q-003060",
-      "lx-q-002150"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003496",
-      "lx-q-001365",
-      "lx-q-000545"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000566",
-      "lx-q-003431",
-      "lx-q-003232"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000901",
-      "lx-q-003576",
-      "lx-q-000738"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001678",
-      "lx-q-002323",
-      "lx-q-003509"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000044",
-      "lx-q-002781",
-      "lx-q-000667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003175",
-      "lx-q-000297",
-      "lx-q-002954"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-001808",
-      "lx-q-001663",
-      "lx-q-003366"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-000561",
-      "lx-q-000595",
-      "lx-q-000415"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "lx-q-003349",
-      "lx-q-000839",
-      "lx-q-001725"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002201",
-      "lx-q-003476",
-      "lx-q-002973"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003324",
-      "lx-q-003233",
-      "lx-q-003119"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000846",
-      "lx-q-002997",
-      "lx-q-000007"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003292",
-      "lx-q-000056",
-      "lx-q-000569"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001391",
-      "lx-q-003668",
-      "lx-q-003337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000885",
-      "lx-q-001626",
-      "lx-q-001003"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002023",
-      "lx-q-002107",
-      "lx-q-001127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002138",
-      "lx-q-000252",
-      "lx-q-002425"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001974",
-      "lx-q-001044",
-      "lx-q-003107"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000551",
-      "lx-q-003635",
-      "lx-q-000986"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003337",
-      "lx-q-003570",
-      "lx-q-002642"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003371",
-      "lx-q-002115",
-      "lx-q-003323"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000117",
-      "lx-q-000029",
-      "lx-q-002357"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001578",
-      "lx-q-003585",
-      "lx-q-000504"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003438",
-      "lx-q-001779",
-      "lx-q-002300"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002802",
-      "lx-q-001932",
-      "lx-q-000616"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003509",
-      "lx-q-002750",
-      "lx-q-001149"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002640",
-      "lx-q-002615",
-      "lx-q-000797"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002347",
-      "lx-q-002259",
-      "lx-q-001599"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001601",
-      "lx-q-001699",
-      "lx-q-000824"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001150",
-      "lx-q-001446",
-      "lx-q-000907"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000197",
-      "lx-q-001143",
-      "lx-q-001128"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001996",
-      "lx-q-001464",
-      "lx-q-000427"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001499",
-      "lx-q-002185",
-      "lx-q-001166"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002916",
-      "lx-q-000750",
-      "lx-q-000964"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002813",
-      "lx-q-001991",
-      "lx-q-003544"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000008",
-      "lx-q-003342",
-      "lx-q-002966"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002806",
-      "lx-q-003545",
-      "lx-q-001681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001050",
-      "lx-q-002838",
-      "lx-q-001039"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003507",
-      "lx-q-001203",
-      "lx-q-003310"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000269",
-      "lx-q-000164",
-      "lx-q-001622"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000869",
-      "lx-q-001162",
-      "lx-q-002159"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001534",
-      "lx-q-000235",
-      "lx-q-000438"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000533",
-      "lx-q-000639",
-      "lx-q-001753"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002985",
-      "lx-q-003378",
-      "lx-q-000347"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000938",
-      "lx-q-003177",
-      "lx-q-000710"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001108",
-      "lx-q-001772",
-      "lx-q-001765"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002315",
-      "lx-q-003227",
-      "lx-q-000110"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002930",
-      "lx-q-002100",
-      "lx-q-002614"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003642",
-      "lx-q-002213",
-      "lx-q-003325"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000606",
-      "lx-q-000835",
-      "lx-q-002466"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000468",
-      "lx-q-001296",
-      "lx-q-001868"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001784",
-      "lx-q-000006",
-      "lx-q-001213"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001412",
-      "lx-q-002264",
-      "lx-q-000757"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000863",
-      "lx-q-002421",
-      "lx-q-000496"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003004",
-      "lx-q-002305",
-      "lx-q-000016"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000511",
-      "lx-q-002884",
-      "lx-q-001616"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003570",
-      "lx-q-002160",
-      "lx-q-000285"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002770",
-      "lx-q-001433",
-      "lx-q-000629"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000341",
-      "lx-q-002693",
-      "lx-q-000072"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000576",
-      "lx-q-000445",
-      "lx-q-001108"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000352",
-      "lx-q-001001",
-      "lx-q-000090"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001103",
-      "lx-q-000608",
-      "lx-q-001716"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001815",
-      "lx-q-003091",
-      "lx-q-000640"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000671",
-      "lx-q-002307",
-      "lx-q-002103"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001743",
-      "lx-q-001915",
-      "lx-q-002970"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003608",
-      "lx-q-003256",
-      "lx-q-002176"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003048",
-      "lx-q-000970",
-      "lx-q-001654"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002089",
-      "lx-q-003237",
-      "lx-q-001650"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000592",
-      "lx-q-003106",
-      "lx-q-000401"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000647",
-      "lx-q-002596",
-      "lx-q-001745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003639",
-      "lx-q-002312",
-      "lx-q-002519"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001659",
-      "lx-q-002026",
-      "lx-q-003696"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002979",
-      "lx-q-001970",
-      "lx-q-000114"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000107",
-      "lx-q-003434",
-      "lx-q-001935"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002609",
-      "lx-q-000903",
-      "lx-q-001510"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001782",
-      "lx-q-003111",
-      "lx-q-000093"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003219",
-      "lx-q-002449",
-      "lx-q-002303"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000060",
-      "lx-q-003698",
-      "lx-q-000579"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003070",
-      "lx-q-002477",
-      "lx-q-002826"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000030",
-      "lx-q-000787",
-      "lx-q-001069"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003032",
-      "lx-q-002727",
-      "lx-q-002448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002035",
-      "lx-q-001535",
-      "lx-q-003221"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000594",
-      "lx-q-001158",
-      "lx-q-002493"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-000243",
-      "lx-q-003036",
-      "lx-q-002552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003097",
-      "lx-q-001111",
-      "lx-q-000798"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003608",
-      "lx-q-002807",
-      "lx-q-001846"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-003520",
-      "lx-q-002955",
-      "lx-q-000568"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-002881",
-      "lx-q-001734",
-      "lx-q-000517"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "lx-q-001125",
-      "lx-q-001322",
-      "lx-q-001777"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000828",
-      "lx-q-002751",
-      "lx-q-000866"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002786",
-      "lx-q-001200",
-      "lx-q-003195"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001860",
-      "lx-q-003383",
-      "lx-q-001985"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000007",
-      "lx-q-002249",
-      "lx-q-002117"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001483",
-      "lx-q-003165",
-      "lx-q-002600"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000609",
-      "lx-q-000580",
-      "lx-q-002250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002381",
-      "lx-q-002027",
-      "lx-q-001383"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001478",
-      "lx-q-000337",
-      "lx-q-000475"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002873",
-      "lx-q-003602",
-      "lx-q-000222"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001191",
-      "lx-q-003128",
-      "lx-q-001330"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001852",
-      "lx-q-001857",
-      "lx-q-000471"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000190",
-      "lx-q-001072",
-      "lx-q-000211"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003140",
-      "lx-q-002507",
-      "lx-q-001898"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002915",
-      "lx-q-001328",
-      "lx-q-003297"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000092",
-      "lx-q-002833",
-      "lx-q-001230"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000021",
-      "lx-q-002476",
-      "lx-q-002369"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001076",
-      "lx-q-000007",
-      "lx-q-001586"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000413",
-      "lx-q-000779",
-      "lx-q-000607"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002884",
-      "lx-q-001008",
-      "lx-q-003144"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000434",
-      "lx-q-000730",
-      "lx-q-003000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003342",
-      "lx-q-002155",
-      "lx-q-000302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003483",
-      "lx-q-002419",
-      "lx-q-001141"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000045",
-      "lx-q-003009",
-      "lx-q-001921"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000999",
-      "lx-q-001468",
-      "lx-q-000325"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000041",
-      "lx-q-001944",
-      "lx-q-002050"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002168",
-      "lx-q-003640",
-      "lx-q-000820"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002645",
-      "lx-q-000391",
-      "lx-q-000352"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001627",
-      "lx-q-000987",
-      "lx-q-003135"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003524",
-      "lx-q-002970",
-      "lx-q-001072"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000366",
-      "lx-q-001151",
-      "lx-q-002129"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001128",
-      "lx-q-001494",
-      "lx-q-000167"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003669",
-      "lx-q-001492",
-      "lx-q-001079"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002752",
-      "lx-q-003105",
-      "lx-q-001635"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001085",
-      "lx-q-001406",
-      "lx-q-003672"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001403",
-      "lx-q-001993",
-      "lx-q-001042"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000982",
-      "lx-q-000239",
-      "lx-q-000890"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003560",
-      "lx-q-001838",
-      "lx-q-002933"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003257",
-      "lx-q-002504",
-      "lx-q-002721"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002464",
-      "lx-q-002869",
-      "lx-q-001182"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003636",
-      "lx-q-001587",
-      "lx-q-002625"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002867",
-      "lx-q-000578",
-      "lx-q-003359"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000230",
-      "lx-q-002102",
-      "lx-q-001255"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003657",
-      "lx-q-001183",
-      "lx-q-000908"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003401",
-      "lx-q-003593",
-      "lx-q-000308"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001172",
-      "lx-q-002404",
-      "lx-q-002542"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001929",
-      "lx-q-002558",
-      "lx-q-000197"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000794",
-      "lx-q-002918",
-      "lx-q-001257"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001744",
-      "lx-q-000027",
-      "lx-q-000650"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003519",
-      "lx-q-002405",
-      "lx-q-002148"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002660",
-      "lx-q-000145",
-      "lx-q-001108"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000785",
-      "lx-q-002407",
-      "lx-q-002521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003650",
-      "lx-q-001160",
-      "lx-q-001449"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001885",
-      "lx-q-000092",
-      "lx-q-003282"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000882",
-      "lx-q-000222",
-      "lx-q-002763"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001307",
-      "lx-q-003229",
-      "lx-q-003083"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000312",
-      "lx-q-002367",
-      "lx-q-001922"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003301",
-      "lx-q-000233",
-      "lx-q-003037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001228",
-      "lx-q-000574",
-      "lx-q-000295"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001342",
-      "lx-q-000704",
-      "lx-q-001659"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003006",
-      "lx-q-000908",
-      "lx-q-000673"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000869",
-      "lx-q-000987",
-      "lx-q-003429"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001301",
-      "lx-q-002815",
-      "lx-q-000380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000114",
-      "lx-q-002979",
-      "lx-q-002066"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002653",
-      "lx-q-000244",
-      "lx-q-002657"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000121",
-      "lx-q-002709",
-      "lx-q-001460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000307",
-      "lx-q-001159",
-      "lx-q-002560"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001254",
-      "lx-q-001624",
-      "lx-q-000175"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001316",
-      "lx-q-001341",
-      "lx-q-001303"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003573",
-      "lx-q-001827",
-      "lx-q-001390"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001375",
-      "lx-q-002467",
-      "lx-q-001538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000569",
-      "lx-q-002864",
-      "lx-q-001957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002128",
-      "lx-q-002815",
-      "lx-q-001783"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000527",
-      "lx-q-000790",
-      "lx-q-002820"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002184",
-      "lx-q-002982",
-      "lx-q-000217"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003509",
-      "lx-q-002211",
-      "lx-q-003465"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001382",
-      "lx-q-002040",
-      "lx-q-001183"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002195",
-      "lx-q-001247",
-      "lx-q-002234"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001954",
-      "lx-q-002745",
-      "lx-q-001992"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000037",
-      "lx-q-003681",
-      "lx-q-003683"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003258",
-      "lx-q-000907",
-      "lx-q-001862"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003310",
-      "lx-q-002160",
-      "lx-q-001919"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000495",
-      "lx-q-001509",
-      "lx-q-002694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000996",
-      "lx-q-000977",
-      "lx-q-002436"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003384",
-      "lx-q-000973",
-      "lx-q-003428"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-000442",
-      "lx-q-002915",
-      "lx-q-003291"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001499",
-      "lx-q-000504",
-      "lx-q-000969"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过批量重命名掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001816",
-      "lx-q-001957",
-      "lx-q-002493"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "批量重命名"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过文本统计掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002397",
-      "lx-q-002646",
-      "lx-q-001099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文本统计"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过定时任务掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003386",
-      "lx-q-003100",
-      "lx-q-001318"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时任务"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过SSH连接掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001426",
-      "lx-q-003049",
-      "lx-q-000474"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SSH连接"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过服务器排错掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002592",
-      "lx-q-000152",
-      "lx-q-000106"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "服务器排错"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过开发环境配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002694",
-      "lx-q-003508",
-      "lx-q-001785"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "开发环境配置"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过文件整理掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001629",
-      "lx-q-000063",
-      "lx-q-003631"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件整理"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过日志分析掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003475",
-      "lx-q-000802",
-      "lx-q-003296"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "日志分析"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过权限修复掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003078",
-      "lx-q-002195",
-      "lx-q-001229"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "权限修复"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过用户创建掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002695",
-      "lx-q-002199",
-      "lx-q-000498"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "用户创建"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过进程排查掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-003122",
-      "lx-q-000267",
-      "lx-q-000665"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程排查"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过端口查看掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001554",
-      "lx-q-001169",
-      "lx-q-003682"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "端口查看"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过环境变量配置掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-001005",
-      "lx-q-001960",
-      "lx-q-002733"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境变量配置"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过Shell自动备份掌握Linux技能",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "lx-q-002850",
-      "lx-q-003279",
-      "lx-q-003219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell自动备份"
     ],

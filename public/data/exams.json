@@ -1,31 +1,64 @@
 [
   {
     "id": "mod-linux-shell-exam-1",
-    "slug": "final-exam",
-    "title": "Linux 与 Shell 基础 核心期末综合自测",
-    "summary": "全面检验您对 Linux 与 Shell 基础 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "Linux 与 Shell 基础入门测评",
+    "summary": "覆盖基础命令、权限模型与文件查看等入门知识点，适合刚完成前两章学习的同学摸底。",
     "difficulty": "easy",
     "questionIds": [
       "mod-linux-shell-q-1",
       "mod-linux-shell-q-2",
       "mod-linux-shell-q-3",
-      "mod-linux-shell-q-4",
-      "mod-linux-shell-q-5",
-      "mod-linux-shell-q-6"
+      "mod-linux-shell-q-6",
+      "mod-linux-shell-q-8",
+      "mod-linux-shell-q-15",
+      "mod-linux-shell-q-19",
+      "mod-linux-shell-q-20",
+      "mod-linux-shell-q-23"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-linux-shell-exam-2",
-    "slug": "basic-exam",
-    "title": "Linux 与 Shell 基础 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "Linux 与 Shell 进阶强化训练",
+    "summary": "聚焦进程与信号、重定向、定时任务和后台运行等中阶主题，检验命令行实战能力。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-linux-shell-q-1",
-      "mod-linux-shell-q-2",
-      "mod-linux-shell-q-3"
+      "mod-linux-shell-q-4",
+      "mod-linux-shell-q-5",
+      "mod-linux-shell-q-7",
+      "mod-linux-shell-q-9",
+      "mod-linux-shell-q-10",
+      "mod-linux-shell-q-12",
+      "mod-linux-shell-q-13",
+      "mod-linux-shell-q-17",
+      "mod-linux-shell-q-21",
+      "mod-linux-shell-q-22"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-linux-shell-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "Linux 与 Shell 综合模拟考试",
+    "summary": "综合脚本健壮性、僵尸进程、inode 故障排查等难点与核心知识的全真模拟卷。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-linux-shell-q-4",
+      "mod-linux-shell-q-7",
+      "mod-linux-shell-q-9",
+      "mod-linux-shell-q-11",
+      "mod-linux-shell-q-12",
+      "mod-linux-shell-q-14",
+      "mod-linux-shell-q-16",
+      "mod-linux-shell-q-17",
+      "mod-linux-shell-q-18",
+      "mod-linux-shell-q-21",
+      "mod-linux-shell-q-22",
+      "mod-linux-shell-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
