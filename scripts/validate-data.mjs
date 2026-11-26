@@ -1,17 +1,97 @@
-import { readFile, stat } from "node:fs/promises";import { join } from "node:path";
-const D=join(process.cwd(),"public/data");const o=m=>console.log("  ✅ "+m);const f=m=>{console.error("  ❌ "+m);e.push(m);};const e=[];const u=a=>new Set(a.map(x=>x.id)).size===a.length;
-async function L(n){try{const r=await readFile(join(D,n+".json"),"utf8");const d=JSON.parse(r);o(`${n} (${Math.round((await stat(join(D,n+".json"))).size/1024)}KB)`);return d;}catch(ex){f(`${n}: ${ex.message}`);return null;}}
-console.log("\n=== Validate module-linux-shell ===\n");
-const courses=await L("courses"),lessons=await L("lessons"),kps=await L("knowledge-points"),questions=await L("questions");
-const exams=await L("exams"),cases=await L("cases"),routes=await L("routes"),glossary=await L("glossary"),faqs=await L("faqs"),tags=await L("tags"),si=await L("search-index");
-console.log("\n--- IDs ---");
-for(const[n,a]of[["courses",courses],["lessons",lessons],["knowledge-points",kps],["questions",questions],["exams",exams],["cases",cases],["routes",routes],["glossary",glossary],["faqs",faqs],["tags",tags]]){if(a)if(u(a))o(`${n}:${a.length} unique`);else f(`${n}: dupes`);}
-console.log("\n--- Refs ---");
-if(courses&&lessons){const cs=new Set(courses.map(c=>c.id));const ls=new Set(lessons.map(l=>l.courseId));[...ls].filter(x=>!cs.has(x)).length===0?o("lessons->courseIds OK"):f("orphan");}
-if(questions){let mf=0;const R=["id","type","difficulty","chapter","knowledge_points","stem","options","answer","explanation","wrong_reason","tags","estimated_time","source_type"];for(const q of questions){for(const r of R)if(q[r]===undefined){mf++;break;}}mf===0?o(`all ${questions.length} questions OK`):f(`${mf} missing`);const nc=questions.filter(q=>q.source_type!=="curated-generated");nc.length===0?o("all curated-generated"):f(`${nc.length} not curated`);}
-if(exams&&questions){const qd=new Set(questions.map(q=>q.id));let tot=0,bad=0;for(const ex of exams)if(ex.questionIds)for(const qi of ex.questionIds){tot++;if(!qd.has(qi))bad++;}bad===0?o(`all ${tot} exam refs OK`):f(`${bad}/${tot} bad`);}
-if(cases&&questions){const qd=new Set(questions.map(q=>q.id));let tot=0,bad=0;for(const c of cases)if(c.relatedQuestionIds)for(const qi of c.relatedQuestionIds){tot++;if(!qd.has(qi))bad++;}bad===0?o(`all ${tot} case refs OK`):f(`${bad}/${tot} bad`);}
-console.log("\n--- Search ---");if(si){o(`search-index:${si.length}`);si.some(x=>x.type==="lesson")&&si.some(x=>x.type==="question")&&si.some(x=>x.type==="glossary")&&si.some(x=>x.type==="faq")?o("all types"):f("missing types");}else f("missing");
-console.log("\n--- Scale ---");
-for(const[n,d,m]of[["courses",courses,14],["lessons",lessons,180],["knowledge-points",kps,800],["questions",questions,3500],["exams",exams,100],["cases",cases,260],["routes",routes,30],["tags",tags,350],["glossary",glossary,350],["faqs",faqs,200]]){if(d&&d.length>=m)o(`${n}:${d.length}>=${m}`);else if(d)f(`${n}:${d.length}<${m}`);else f(`${n}:fail`);}
-console.log("\n"+ "=".repeat(50));e.length===0?(console.log("✅ All passed!\n"),process.exit(0)):(console.log(`❌ ${e.length} errors\n`),process.exit(1));
+// Standalone check for a module checkout. The tools repository adds full schema validation.
+import { readFileSync } from 'node:fs';
+
+const dataDir = new URL('../public/data/', import.meta.url);
+const read = (name) => JSON.parse(readFileSync(new URL(name + '.json', dataDir), 'utf8'));
+const datasets = ['courses', 'lessons', 'knowledge-points', 'questions', 'exams',
+  'cases', 'routes', 'glossary', 'faqs', 'tags'];
+const searchTypes = { courses: 'course', lessons: 'lesson', 'knowledge-points': 'knowledge',
+  questions: 'question', cases: 'case', routes: 'route', glossary: 'glossary', faqs: 'faq' };
+
+function validate() {
+  const meta = read('module');
+  const data = {};
+  const ids = {};
+  const problems = [];
+  const expectedIndex = new Set();
+  for (const name of datasets) {
+    const rows = read(name);
+    if (!Array.isArray(rows)) throw new Error(name + '.json must contain an array');
+    data[name] = rows;
+    ids[name] = new Set();
+    const slugs = new Set();
+    const published = rows.filter((row) => row.editorialStatus !== 'draft');
+    const key = name === 'knowledge-points' ? 'knowledgePoints' : name;
+    if (meta.stats?.[key] !== published.length) problems.push(name + ': public count differs from module.json');
+
+    for (const row of rows) {
+      if (!row.id || ids[name].has(row.id)) problems.push(name + ': missing or duplicate id ' + row.id);
+      ids[name].add(row.id);
+      if (row.slug && slugs.has(row.slug)) problems.push(name + ': duplicate slug ' + row.slug);
+      if (row.slug) slugs.add(row.slug);
+    }
+    if (searchTypes[name]) {
+      for (const row of published) expectedIndex.add(searchTypes[name] + ':' + row.id);
+    }
+  }
+
+  function references(source, field, target) {
+    for (const row of data[source]) {
+      const value = row[field];
+      if (value === undefined || value === null || value === '') continue;
+      for (const id of Array.isArray(value) ? value : [value]) {
+        if (!ids[target].has(id)) problems.push(row.id + '.' + field + ': unknown ' + id);
+      }
+    }
+  }
+
+  references('courses', 'lessons', 'lessons');
+  references('lessons', 'courseId', 'courses');
+  references('lessons', 'knowledgePoints', 'knowledge-points');
+  references('lessons', 'practiceQuestionIds', 'questions');
+  references('questions', 'related_questions', 'questions');
+  references('questions', 'knowledge_points', 'knowledge-points');
+  references('exams', 'questionIds', 'questions');
+  references('cases', 'knowledgePoints', 'knowledge-points');
+  references('cases', 'relatedQuestionIds', 'questions');
+  references('knowledge-points', 'relatedQuestions', 'questions');
+  references('knowledge-points', 'relatedCases', 'cases');
+  references('knowledge-points', 'glossary', 'glossary');
+
+  for (const q of data.questions) {
+    if (!q.type || !q.stem || !q.explanation || !q.difficulty || !(q.estimated_time > 0) ||
+        !Array.isArray(q.options) || !Array.isArray(q.answer) || !q.answer.length ||
+        !Array.isArray(q.tags) || !Array.isArray(q.knowledge_points)) {
+      problems.push(q.id + ': missing question fields');
+      continue;
+    }
+    if (!ids.courses.has(q.chapter) && !ids.lessons.has(q.chapter)) problems.push(q.id + ': unknown chapter ' + q.chapter);
+    if (q.type === 'single' || q.type === 'multiple') {
+      const keys = new Set(q.options.map((option) => option.key));
+      if (keys.size < 2 || keys.size !== q.options.length || q.answer.some((key) => !keys.has(key)) ||
+          new Set(q.answer).size !== q.answer.length || (q.type === 'single' && q.answer.length !== 1)) {
+        problems.push(q.id + ': invalid choice options or answer');
+      }
+    }
+    if (q.type === 'judge' && (q.answer.length !== 1 || !['T', 'F'].includes(q.answer[0]))) {
+      problems.push(q.id + ': invalid true/false answer');
+    }
+  }
+
+  const index = read('search-index');
+  if (!Array.isArray(index)) throw new Error('search-index.json must contain an array');
+  for (const entry of index) {
+    const key = entry.type + ':' + entry.id;
+    if (!entry.url || !entry.title || !expectedIndex.delete(key)) problems.push('Invalid search entry: ' + key);
+  }
+  for (const missing of expectedIndex) problems.push('Missing search entry: ' + missing);
+  if (problems.length) throw new Error(problems.slice(0, 20).join('\n') + '\nTotal errors: ' + problems.length);
+  console.log(meta.slug + ': data, published counts and ' + index.length + ' search entries validated');
+}
+
+try {
+  validate();
+} catch (error) {
+  console.error(error.message);
+  process.exitCode = 1;
+}

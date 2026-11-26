@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "Linux 与 Shel",
+  "name": "OpenSkill Galaxy — Linux 与 Shell 基础",
+  "description": "面向编程学习者计算机专业学生后端开发运维开发数据分析和准备使用Ubuntu环境的人系统学习Linux文件系统常用命令权限进程软件包Shell脚本日志网络命令环境变量和开发环境配置的静态学习模块。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-linux-shell/",
+  "scope": "/module-linux-shell/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

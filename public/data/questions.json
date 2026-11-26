@@ -32,7 +32,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-linux-shell-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0028"
+    ],
     "estimated_time": 2
   },
   {
@@ -104,7 +106,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0022"
+    ],
     "estimated_time": 2
   },
   {
@@ -141,7 +145,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0006"
+    ],
     "estimated_time": 3
   },
   {
@@ -213,7 +219,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-linux-shell-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0004"
+    ],
     "estimated_time": 2
   },
   {
@@ -249,7 +257,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0054"
+    ],
     "estimated_time": 3
   },
   {
@@ -358,7 +368,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0060"
+    ],
     "estimated_time": 3
   },
   {
@@ -505,7 +517,9 @@
     ],
     "difficulty": "hard",
     "chapter": "mod-linux-shell-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0006"
+    ],
     "estimated_time": 4
   },
   {
@@ -715,7 +729,10 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0053",
+      "lx-kp-0054"
+    ],
     "estimated_time": 2
   },
   {
@@ -734,7 +751,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0046"
+    ],
     "estimated_time": 2
   },
   {
@@ -753,7 +772,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-linux-shell-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0040"
+    ],
     "estimated_time": 2
   },
   {
@@ -772,7 +793,85 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-linux-shell-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "lx-kp-0021"
+    ],
     "estimated_time": 2
+  },
+  {
+    "id": "mod-linux-shell-q-25",
+    "slug": "question-25",
+    "type": "single",
+    "stem": "一台 16 GiB 的 Linux 主机执行 free -h，free 为 300 MiB，available 为 8 GiB。监控仅因 free 很低就报告“内存即将耗尽”。在评估这条告警时，哪种判断最符合这组数据？",
+    "options": [
+      {
+        "key": "A",
+        "text": "按 free 估计新进程可用内存，仅余 300 MiB，应立即扩容"
+      },
+      {
+        "key": "B",
+        "text": "按 available 估计可供新负载使用的内存，单凭 free 低不足以判定耗尽"
+      },
+      {
+        "key": "C",
+        "text": "把 free 和 available 相加作为剩余内存，据此设置告警阈值"
+      },
+      {
+        "key": "D",
+        "text": "把 available 当成已经写入交换区的内存，应先扩展交换区"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "Linux 会把部分内存用于可回收缓存。available 估算系统在不发生交换的情况下还能提供多少内存，已计入空闲内存和可回收部分。8 GiB 与 300 MiB 不应相加，也不能从这两个数直接推断交换区用量。",
+    "tags": [
+      "free",
+      "性能监控"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-4",
+    "knowledge_points": [
+      "lx-kp-0039"
+    ],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-linux-shell-q-26",
+    "slug": "question-26",
+    "type": "single",
+    "stem": "在 ext4 文件系统的 /data/cache 创建空文件时报 No space left on device。df -h /data/cache 显示空间使用率只有 45%，目录里已有数百万个小文件。哪项检查能优先验证这组现象指向的原因？",
+    "options": [
+      {
+        "key": "A",
+        "text": "用 du -sh /data/cache 核对该目录下文件占用的总字节数"
+      },
+      {
+        "key": "B",
+        "text": "用 free -h 核对系统可供进程使用的内存和交换区容量"
+      },
+      {
+        "key": "C",
+        "text": "用 df -h /data/cache 再次核对该文件系统的数据块使用率"
+      },
+      {
+        "key": "D",
+        "text": "用 df -i /data/cache 核对该文件系统的 inode 使用率"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "创建空文件也需要一个可用 inode。大量小文件可能先用完 inode，而存储文件内容的数据块仍有富余。df -i 可直接看到目标文件系统的 inode 使用率和剩余量。按字节统计的 df -h、du 和内存指标都不能回答这个问题。",
+    "tags": [
+      "df",
+      "文件系统"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-linux-shell-c-4",
+    "knowledge_points": [
+      "lx-kp-0040"
+    ],
+    "estimated_time": 3
   }
 ]

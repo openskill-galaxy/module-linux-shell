@@ -2,7 +2,7 @@
   "name": "openskill-module-linux-shell",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy reusable static learning module template.",
+  "description": "面向开发运维和Ubuntu使用者",
   "type": "module",
   "scripts": {
     "dev": "vite",

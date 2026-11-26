@@ -17,7 +17,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例1"
+    "slug": "文件整理案例1",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-002",
@@ -37,7 +38,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例2"
+    "slug": "日志分析案例2",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-003",
@@ -57,7 +59,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例3"
+    "slug": "权限修复案例3",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-004",
@@ -77,7 +80,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例4"
+    "slug": "用户创建案例4",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-005",
@@ -97,7 +101,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例5"
+    "slug": "进程排查案例5",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-006",
@@ -117,7 +122,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例6"
+    "slug": "端口查看案例6",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-007",
@@ -137,7 +143,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例7"
+    "slug": "环境变量配置案例7",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-008",
@@ -157,7 +164,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例8"
+    "slug": "shell自动备份案例8",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-009",
@@ -177,7 +185,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例9"
+    "slug": "批量重命名案例9",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-010",
@@ -197,7 +206,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例10"
+    "slug": "文本统计案例10",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-011",
@@ -217,7 +227,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例11"
+    "slug": "定时任务案例11",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-012",
@@ -237,7 +248,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例12"
+    "slug": "ssh连接案例12",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-013",
@@ -257,7 +269,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例13"
+    "slug": "服务器排错案例13",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-014",
@@ -277,7 +290,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例14"
+    "slug": "开发环境配置案例14",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-015",
@@ -297,7 +311,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例15"
+    "slug": "文件整理案例15",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-016",
@@ -317,7 +332,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例16"
+    "slug": "日志分析案例16",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-017",
@@ -337,7 +353,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例17"
+    "slug": "权限修复案例17",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-018",
@@ -357,7 +374,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例18"
+    "slug": "用户创建案例18",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-019",
@@ -377,7 +395,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例19"
+    "slug": "进程排查案例19",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-020",
@@ -397,7 +416,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例20"
+    "slug": "端口查看案例20",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-021",
@@ -417,7 +437,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例21"
+    "slug": "环境变量配置案例21",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-022",
@@ -437,7 +458,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例22"
+    "slug": "shell自动备份案例22",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-023",
@@ -457,7 +479,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例23"
+    "slug": "批量重命名案例23",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-024",
@@ -477,7 +500,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例24"
+    "slug": "文本统计案例24",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-025",
@@ -497,7 +521,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例25"
+    "slug": "定时任务案例25",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-026",
@@ -517,7 +542,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例26"
+    "slug": "ssh连接案例26",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-027",
@@ -537,7 +563,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例27"
+    "slug": "服务器排错案例27",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-028",
@@ -557,7 +584,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例28"
+    "slug": "开发环境配置案例28",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-029",
@@ -577,7 +605,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例29"
+    "slug": "文件整理案例29",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-030",
@@ -597,7 +626,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例30"
+    "slug": "日志分析案例30",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-031",
@@ -617,7 +647,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例31"
+    "slug": "权限修复案例31",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-032",
@@ -637,7 +668,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例32"
+    "slug": "用户创建案例32",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-033",
@@ -657,7 +689,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例33"
+    "slug": "进程排查案例33",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-034",
@@ -677,7 +710,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例34"
+    "slug": "端口查看案例34",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-035",
@@ -697,7 +731,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例35"
+    "slug": "环境变量配置案例35",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-036",
@@ -717,7 +752,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例36"
+    "slug": "shell自动备份案例36",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-037",
@@ -737,7 +773,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例37"
+    "slug": "批量重命名案例37",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-038",
@@ -757,7 +794,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例38"
+    "slug": "文本统计案例38",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-039",
@@ -777,7 +815,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例39"
+    "slug": "定时任务案例39",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-040",
@@ -797,7 +836,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例40"
+    "slug": "ssh连接案例40",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-041",
@@ -817,7 +857,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例41"
+    "slug": "服务器排错案例41",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-042",
@@ -837,7 +878,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例42"
+    "slug": "开发环境配置案例42",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-043",
@@ -857,7 +899,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例43"
+    "slug": "文件整理案例43",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-044",
@@ -877,7 +920,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例44"
+    "slug": "日志分析案例44",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-045",
@@ -897,7 +941,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例45"
+    "slug": "权限修复案例45",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-046",
@@ -917,7 +962,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例46"
+    "slug": "用户创建案例46",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-047",
@@ -937,7 +983,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例47"
+    "slug": "进程排查案例47",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-048",
@@ -957,7 +1004,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例48"
+    "slug": "端口查看案例48",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-049",
@@ -977,7 +1025,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例49"
+    "slug": "环境变量配置案例49",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-050",
@@ -997,7 +1046,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例50"
+    "slug": "shell自动备份案例50",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-051",
@@ -1017,7 +1067,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例51"
+    "slug": "批量重命名案例51",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-052",
@@ -1037,7 +1088,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例52"
+    "slug": "文本统计案例52",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-053",
@@ -1057,7 +1109,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例53"
+    "slug": "定时任务案例53",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-054",
@@ -1077,7 +1130,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例54"
+    "slug": "ssh连接案例54",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-055",
@@ -1097,7 +1151,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例55"
+    "slug": "服务器排错案例55",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-056",
@@ -1117,7 +1172,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例56"
+    "slug": "开发环境配置案例56",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-057",
@@ -1137,7 +1193,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例57"
+    "slug": "文件整理案例57",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-058",
@@ -1157,7 +1214,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例58"
+    "slug": "日志分析案例58",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-059",
@@ -1177,7 +1235,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例59"
+    "slug": "权限修复案例59",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-060",
@@ -1197,7 +1256,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例60"
+    "slug": "用户创建案例60",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-061",
@@ -1217,7 +1277,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例61"
+    "slug": "进程排查案例61",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-062",
@@ -1237,7 +1298,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例62"
+    "slug": "端口查看案例62",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-063",
@@ -1257,7 +1319,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例63"
+    "slug": "环境变量配置案例63",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-064",
@@ -1277,7 +1340,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例64"
+    "slug": "shell自动备份案例64",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-065",
@@ -1297,7 +1361,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例65"
+    "slug": "批量重命名案例65",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-066",
@@ -1317,7 +1382,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例66"
+    "slug": "文本统计案例66",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-067",
@@ -1337,7 +1403,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例67"
+    "slug": "定时任务案例67",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-068",
@@ -1357,7 +1424,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例68"
+    "slug": "ssh连接案例68",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-069",
@@ -1377,7 +1445,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例69"
+    "slug": "服务器排错案例69",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-070",
@@ -1397,7 +1466,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例70"
+    "slug": "开发环境配置案例70",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-071",
@@ -1417,7 +1487,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例71"
+    "slug": "文件整理案例71",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-072",
@@ -1437,7 +1508,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例72"
+    "slug": "日志分析案例72",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-073",
@@ -1457,7 +1529,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例73"
+    "slug": "权限修复案例73",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-074",
@@ -1477,7 +1550,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例74"
+    "slug": "用户创建案例74",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-075",
@@ -1497,7 +1571,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例75"
+    "slug": "进程排查案例75",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-076",
@@ -1517,7 +1592,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例76"
+    "slug": "端口查看案例76",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-077",
@@ -1537,7 +1613,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例77"
+    "slug": "环境变量配置案例77",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-078",
@@ -1557,7 +1634,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例78"
+    "slug": "shell自动备份案例78",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-079",
@@ -1577,7 +1655,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例79"
+    "slug": "批量重命名案例79",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-080",
@@ -1597,7 +1676,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例80"
+    "slug": "文本统计案例80",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-081",
@@ -1617,7 +1697,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例81"
+    "slug": "定时任务案例81",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-082",
@@ -1637,7 +1718,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例82"
+    "slug": "ssh连接案例82",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-083",
@@ -1657,7 +1739,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例83"
+    "slug": "服务器排错案例83",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-084",
@@ -1677,7 +1760,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例84"
+    "slug": "开发环境配置案例84",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-085",
@@ -1697,7 +1781,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例85"
+    "slug": "文件整理案例85",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-086",
@@ -1717,7 +1802,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例86"
+    "slug": "日志分析案例86",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-087",
@@ -1737,7 +1823,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例87"
+    "slug": "权限修复案例87",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-088",
@@ -1757,7 +1844,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例88"
+    "slug": "用户创建案例88",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-089",
@@ -1777,7 +1865,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例89"
+    "slug": "进程排查案例89",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-090",
@@ -1797,7 +1886,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例90"
+    "slug": "端口查看案例90",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-091",
@@ -1817,7 +1907,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例91"
+    "slug": "环境变量配置案例91",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-092",
@@ -1837,7 +1928,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例92"
+    "slug": "shell自动备份案例92",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-093",
@@ -1857,7 +1949,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例93"
+    "slug": "批量重命名案例93",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-094",
@@ -1877,7 +1970,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例94"
+    "slug": "文本统计案例94",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-095",
@@ -1897,7 +1991,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例95"
+    "slug": "定时任务案例95",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-096",
@@ -1917,7 +2012,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例96"
+    "slug": "ssh连接案例96",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-097",
@@ -1937,7 +2033,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例97"
+    "slug": "服务器排错案例97",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-098",
@@ -1957,7 +2054,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例98"
+    "slug": "开发环境配置案例98",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-099",
@@ -1977,7 +2075,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例99"
+    "slug": "文件整理案例99",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-100",
@@ -1997,7 +2096,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例100"
+    "slug": "日志分析案例100",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-101",
@@ -2017,7 +2117,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例101"
+    "slug": "权限修复案例101",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-102",
@@ -2037,7 +2138,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例102"
+    "slug": "用户创建案例102",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-103",
@@ -2057,7 +2159,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例103"
+    "slug": "进程排查案例103",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-104",
@@ -2077,7 +2180,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例104"
+    "slug": "端口查看案例104",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-105",
@@ -2097,7 +2201,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例105"
+    "slug": "环境变量配置案例105",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-106",
@@ -2117,7 +2222,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例106"
+    "slug": "shell自动备份案例106",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-107",
@@ -2137,7 +2243,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例107"
+    "slug": "批量重命名案例107",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-108",
@@ -2157,7 +2264,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例108"
+    "slug": "文本统计案例108",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-109",
@@ -2177,7 +2285,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例109"
+    "slug": "定时任务案例109",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-110",
@@ -2197,7 +2306,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例110"
+    "slug": "ssh连接案例110",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-111",
@@ -2217,7 +2327,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例111"
+    "slug": "服务器排错案例111",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-112",
@@ -2237,7 +2348,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例112"
+    "slug": "开发环境配置案例112",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-113",
@@ -2257,7 +2369,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例113"
+    "slug": "文件整理案例113",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-114",
@@ -2277,7 +2390,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例114"
+    "slug": "日志分析案例114",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-115",
@@ -2297,7 +2411,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例115"
+    "slug": "权限修复案例115",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-116",
@@ -2317,7 +2432,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例116"
+    "slug": "用户创建案例116",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-117",
@@ -2337,7 +2453,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例117"
+    "slug": "进程排查案例117",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-118",
@@ -2357,7 +2474,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例118"
+    "slug": "端口查看案例118",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-119",
@@ -2377,7 +2495,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例119"
+    "slug": "环境变量配置案例119",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-120",
@@ -2397,7 +2516,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例120"
+    "slug": "shell自动备份案例120",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-121",
@@ -2417,7 +2537,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例121"
+    "slug": "批量重命名案例121",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-122",
@@ -2437,7 +2558,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例122"
+    "slug": "文本统计案例122",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-123",
@@ -2457,7 +2579,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例123"
+    "slug": "定时任务案例123",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-124",
@@ -2477,7 +2600,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例124"
+    "slug": "ssh连接案例124",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-125",
@@ -2497,7 +2621,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例125"
+    "slug": "服务器排错案例125",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-126",
@@ -2517,7 +2642,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例126"
+    "slug": "开发环境配置案例126",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-127",
@@ -2537,7 +2663,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例127"
+    "slug": "文件整理案例127",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-128",
@@ -2557,7 +2684,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例128"
+    "slug": "日志分析案例128",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-129",
@@ -2577,7 +2705,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例129"
+    "slug": "权限修复案例129",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-130",
@@ -2597,7 +2726,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例130"
+    "slug": "用户创建案例130",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-131",
@@ -2617,7 +2747,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例131"
+    "slug": "进程排查案例131",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-132",
@@ -2637,7 +2768,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例132"
+    "slug": "端口查看案例132",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-133",
@@ -2657,7 +2789,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例133"
+    "slug": "环境变量配置案例133",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-134",
@@ -2677,7 +2810,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例134"
+    "slug": "shell自动备份案例134",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-135",
@@ -2697,7 +2831,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例135"
+    "slug": "批量重命名案例135",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-136",
@@ -2717,7 +2852,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例136"
+    "slug": "文本统计案例136",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-137",
@@ -2737,7 +2873,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例137"
+    "slug": "定时任务案例137",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-138",
@@ -2757,7 +2894,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例138"
+    "slug": "ssh连接案例138",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-139",
@@ -2777,7 +2915,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例139"
+    "slug": "服务器排错案例139",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-140",
@@ -2797,7 +2936,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例140"
+    "slug": "开发环境配置案例140",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-141",
@@ -2817,7 +2957,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例141"
+    "slug": "文件整理案例141",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-142",
@@ -2837,7 +2978,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例142"
+    "slug": "日志分析案例142",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-143",
@@ -2857,7 +2999,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例143"
+    "slug": "权限修复案例143",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-144",
@@ -2877,7 +3020,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例144"
+    "slug": "用户创建案例144",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-145",
@@ -2897,7 +3041,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例145"
+    "slug": "进程排查案例145",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-146",
@@ -2917,7 +3062,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例146"
+    "slug": "端口查看案例146",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-147",
@@ -2937,7 +3083,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例147"
+    "slug": "环境变量配置案例147",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-148",
@@ -2957,7 +3104,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例148"
+    "slug": "shell自动备份案例148",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-149",
@@ -2977,7 +3125,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例149"
+    "slug": "批量重命名案例149",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-150",
@@ -2997,7 +3146,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例150"
+    "slug": "文本统计案例150",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-151",
@@ -3017,7 +3167,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例151"
+    "slug": "定时任务案例151",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-152",
@@ -3037,7 +3188,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例152"
+    "slug": "ssh连接案例152",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-153",
@@ -3057,7 +3209,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例153"
+    "slug": "服务器排错案例153",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-154",
@@ -3077,7 +3230,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例154"
+    "slug": "开发环境配置案例154",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-155",
@@ -3097,7 +3251,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例155"
+    "slug": "文件整理案例155",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-156",
@@ -3117,7 +3272,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例156"
+    "slug": "日志分析案例156",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-157",
@@ -3137,7 +3293,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例157"
+    "slug": "权限修复案例157",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-158",
@@ -3157,7 +3314,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例158"
+    "slug": "用户创建案例158",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-159",
@@ -3177,7 +3335,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例159"
+    "slug": "进程排查案例159",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-160",
@@ -3197,7 +3356,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例160"
+    "slug": "端口查看案例160",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-161",
@@ -3217,7 +3377,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例161"
+    "slug": "环境变量配置案例161",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-162",
@@ -3237,7 +3398,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例162"
+    "slug": "shell自动备份案例162",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-163",
@@ -3257,7 +3419,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例163"
+    "slug": "批量重命名案例163",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-164",
@@ -3277,7 +3440,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例164"
+    "slug": "文本统计案例164",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-165",
@@ -3297,7 +3461,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例165"
+    "slug": "定时任务案例165",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-166",
@@ -3317,7 +3482,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例166"
+    "slug": "ssh连接案例166",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-167",
@@ -3337,7 +3503,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例167"
+    "slug": "服务器排错案例167",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-168",
@@ -3357,7 +3524,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例168"
+    "slug": "开发环境配置案例168",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-169",
@@ -3377,7 +3545,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例169"
+    "slug": "文件整理案例169",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-170",
@@ -3397,7 +3566,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例170"
+    "slug": "日志分析案例170",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-171",
@@ -3417,7 +3587,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例171"
+    "slug": "权限修复案例171",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-172",
@@ -3437,7 +3608,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例172"
+    "slug": "用户创建案例172",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-173",
@@ -3457,7 +3629,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例173"
+    "slug": "进程排查案例173",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-174",
@@ -3477,7 +3650,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例174"
+    "slug": "端口查看案例174",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-175",
@@ -3497,7 +3671,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例175"
+    "slug": "环境变量配置案例175",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-176",
@@ -3517,7 +3692,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例176"
+    "slug": "shell自动备份案例176",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-177",
@@ -3537,7 +3713,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例177"
+    "slug": "批量重命名案例177",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-178",
@@ -3557,7 +3734,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例178"
+    "slug": "文本统计案例178",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-179",
@@ -3577,7 +3755,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例179"
+    "slug": "定时任务案例179",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-180",
@@ -3597,7 +3776,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例180"
+    "slug": "ssh连接案例180",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-181",
@@ -3617,7 +3797,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例181"
+    "slug": "服务器排错案例181",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-182",
@@ -3637,7 +3818,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例182"
+    "slug": "开发环境配置案例182",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-183",
@@ -3657,7 +3839,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例183"
+    "slug": "文件整理案例183",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-184",
@@ -3677,7 +3860,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例184"
+    "slug": "日志分析案例184",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-185",
@@ -3697,7 +3881,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例185"
+    "slug": "权限修复案例185",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-186",
@@ -3717,7 +3902,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例186"
+    "slug": "用户创建案例186",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-187",
@@ -3737,7 +3923,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例187"
+    "slug": "进程排查案例187",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-188",
@@ -3757,7 +3944,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例188"
+    "slug": "端口查看案例188",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-189",
@@ -3777,7 +3965,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例189"
+    "slug": "环境变量配置案例189",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-190",
@@ -3797,7 +3986,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例190"
+    "slug": "shell自动备份案例190",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-191",
@@ -3817,7 +4007,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例191"
+    "slug": "批量重命名案例191",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-192",
@@ -3837,7 +4028,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例192"
+    "slug": "文本统计案例192",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-193",
@@ -3857,7 +4049,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例193"
+    "slug": "定时任务案例193",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-194",
@@ -3877,7 +4070,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例194"
+    "slug": "ssh连接案例194",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-195",
@@ -3897,7 +4091,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例195"
+    "slug": "服务器排错案例195",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-196",
@@ -3917,7 +4112,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例196"
+    "slug": "开发环境配置案例196",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-197",
@@ -3937,7 +4133,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例197"
+    "slug": "文件整理案例197",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-198",
@@ -3957,7 +4154,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例198"
+    "slug": "日志分析案例198",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-199",
@@ -3977,7 +4175,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例199"
+    "slug": "权限修复案例199",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-200",
@@ -3997,7 +4196,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例200"
+    "slug": "用户创建案例200",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-201",
@@ -4017,7 +4217,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例201"
+    "slug": "进程排查案例201",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-202",
@@ -4037,7 +4238,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例202"
+    "slug": "端口查看案例202",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-203",
@@ -4057,7 +4259,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例203"
+    "slug": "环境变量配置案例203",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-204",
@@ -4077,7 +4280,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例204"
+    "slug": "shell自动备份案例204",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-205",
@@ -4097,7 +4301,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例205"
+    "slug": "批量重命名案例205",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-206",
@@ -4117,7 +4322,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例206"
+    "slug": "文本统计案例206",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-207",
@@ -4137,7 +4343,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例207"
+    "slug": "定时任务案例207",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-208",
@@ -4157,7 +4364,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例208"
+    "slug": "ssh连接案例208",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-209",
@@ -4177,7 +4385,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例209"
+    "slug": "服务器排错案例209",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-210",
@@ -4197,7 +4406,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例210"
+    "slug": "开发环境配置案例210",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-211",
@@ -4217,7 +4427,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例211"
+    "slug": "文件整理案例211",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-212",
@@ -4237,7 +4448,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例212"
+    "slug": "日志分析案例212",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-213",
@@ -4257,7 +4469,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例213"
+    "slug": "权限修复案例213",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-214",
@@ -4277,7 +4490,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例214"
+    "slug": "用户创建案例214",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-215",
@@ -4297,7 +4511,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例215"
+    "slug": "进程排查案例215",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-216",
@@ -4317,7 +4532,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例216"
+    "slug": "端口查看案例216",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-217",
@@ -4337,7 +4553,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例217"
+    "slug": "环境变量配置案例217",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-218",
@@ -4357,7 +4574,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例218"
+    "slug": "shell自动备份案例218",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-219",
@@ -4377,7 +4595,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例219"
+    "slug": "批量重命名案例219",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-220",
@@ -4397,7 +4616,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例220"
+    "slug": "文本统计案例220",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-221",
@@ -4417,7 +4637,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例221"
+    "slug": "定时任务案例221",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-222",
@@ -4437,7 +4658,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例222"
+    "slug": "ssh连接案例222",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-223",
@@ -4457,7 +4679,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例223"
+    "slug": "服务器排错案例223",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-224",
@@ -4477,7 +4700,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例224"
+    "slug": "开发环境配置案例224",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-225",
@@ -4497,7 +4721,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例225"
+    "slug": "文件整理案例225",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-226",
@@ -4517,7 +4742,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例226"
+    "slug": "日志分析案例226",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-227",
@@ -4537,7 +4763,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例227"
+    "slug": "权限修复案例227",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-228",
@@ -4557,7 +4784,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例228"
+    "slug": "用户创建案例228",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-229",
@@ -4577,7 +4805,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例229"
+    "slug": "进程排查案例229",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-230",
@@ -4597,7 +4826,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例230"
+    "slug": "端口查看案例230",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-231",
@@ -4617,7 +4847,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例231"
+    "slug": "环境变量配置案例231",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-232",
@@ -4637,7 +4868,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例232"
+    "slug": "shell自动备份案例232",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-233",
@@ -4657,7 +4889,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例233"
+    "slug": "批量重命名案例233",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-234",
@@ -4677,7 +4910,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例234"
+    "slug": "文本统计案例234",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-235",
@@ -4697,7 +4931,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例235"
+    "slug": "定时任务案例235",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-236",
@@ -4717,7 +4952,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例236"
+    "slug": "ssh连接案例236",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-237",
@@ -4737,7 +4973,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例237"
+    "slug": "服务器排错案例237",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-238",
@@ -4757,7 +4994,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例238"
+    "slug": "开发环境配置案例238",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-239",
@@ -4777,7 +5015,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例239"
+    "slug": "文件整理案例239",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-240",
@@ -4797,7 +5036,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例240"
+    "slug": "日志分析案例240",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-241",
@@ -4817,7 +5057,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例241"
+    "slug": "权限修复案例241",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-242",
@@ -4837,7 +5078,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例242"
+    "slug": "用户创建案例242",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-243",
@@ -4857,7 +5099,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例243"
+    "slug": "进程排查案例243",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-244",
@@ -4877,7 +5120,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例244"
+    "slug": "端口查看案例244",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-245",
@@ -4897,7 +5141,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例245"
+    "slug": "环境变量配置案例245",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-246",
@@ -4917,7 +5162,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例246"
+    "slug": "shell自动备份案例246",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-247",
@@ -4937,7 +5183,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过批量重命名掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "批量重命名案例247"
+    "slug": "批量重命名案例247",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-248",
@@ -4957,7 +5204,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文本统计掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文本统计案例248"
+    "slug": "文本统计案例248",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-249",
@@ -4977,7 +5225,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过定时任务掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "定时任务案例249"
+    "slug": "定时任务案例249",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-250",
@@ -4997,7 +5246,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过SSH连接掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "ssh连接案例250"
+    "slug": "ssh连接案例250",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-251",
@@ -5017,7 +5267,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过服务器排错掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "服务器排错案例251"
+    "slug": "服务器排错案例251",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-252",
@@ -5037,7 +5288,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过开发环境配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "开发环境配置案例252"
+    "slug": "开发环境配置案例252",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-253",
@@ -5057,7 +5309,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过文件整理掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "文件整理案例253"
+    "slug": "文件整理案例253",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-254",
@@ -5077,7 +5330,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过日志分析掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "日志分析案例254"
+    "slug": "日志分析案例254",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-255",
@@ -5097,7 +5351,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过权限修复掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "权限修复案例255"
+    "slug": "权限修复案例255",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-256",
@@ -5117,7 +5372,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过用户创建掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "用户创建案例256"
+    "slug": "用户创建案例256",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-257",
@@ -5137,7 +5393,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过进程排查掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "进程排查案例257"
+    "slug": "进程排查案例257",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-258",
@@ -5157,7 +5414,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过端口查看掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "端口查看案例258"
+    "slug": "端口查看案例258",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-259",
@@ -5177,7 +5435,8 @@
     "backgroundMarkdown": "# 案例背景\n\n通过环境变量配置掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "环境变量配置案例259"
+    "slug": "环境变量配置案例259",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-case-260",
@@ -5197,6 +5456,20 @@
     "backgroundMarkdown": "# 案例背景\n\n通过Shell自动备份掌握Linux技能",
     "tasksMarkdown": "# 实战任务\n\n1. **需求分析**: 分析需求\n2. **命令选择**: 选合适命令\n3. **执行操作**: 执行\n4. **验证结果**: 验证\n5. **总结**: 总结",
     "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
-    "slug": "shell自动备份案例260"
+    "slug": "shell自动备份案例260",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "case-linux-shell-workshop",
+    "slug": "workshop-linux-shell",
+    "title": "统计带空格的文件名",
+    "summary": "对比不加引号的变量展开与加引号的展开，并预期参数数目。",
+    "difficulty": "medium",
+    "tags": [],
+    "backgroundMarkdown": "目录包含文件“学习 记录.txt”和“摘要.txt”。需要逐个将路径传给 wc，不修改文件。",
+    "tasksMarkdown": "对比不加引号的变量展开与加引号的展开，并预期参数数目。",
+    "referenceMarkdown": "可用 for file in ./*.txt; do wc -l \"$file\"; done。通配展开得到两个路径，\"$file\" 每次保留单一参数。省略引号会把第一个文件名按空格拆开。",
+    "knowledgePoints": [],
+    "estimatedMinutes": 15
   }
 ]

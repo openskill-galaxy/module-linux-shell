@@ -3,66 +3,124 @@
     "id": "mod-linux-shell-l-1",
     "courseId": "mod-linux-shell-c-1",
     "order": 1,
-    "title": "Linux 与 Shell 基础 环境依赖搭建与运行机制",
+    "title": "Linux 目录结构、权限位与最小权限规范",
     "slug": "lesson-1-1",
-    "summary": "了解平台运行依赖、环境参数配置以及本地运行引导流程。",
-    "contentMarkdown": "# Linux 与 Shell 基础 环境依赖搭建与运行机制\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 环境依赖搭建与运行机制` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "分清普通文件与目录 `r/w/x` 权限的本质区别，理解 `umask` 与为什么生产环境严禁随手 `chmod 777`。",
+    "contentMarkdown": "# Linux 目录结构、权限位与最小权限规范\n\n## 1. 文件权限 vs 目录权限的关键区别\n\n| 权限位 | 对普通文件的含义 | 对目录的含义 |\n| :--- | :--- | :--- |\n| `r (4)` | 可读取文件内容 | 可用 `ls` 列出目录下文件名 |\n| `w (2)` | 可修改文件内容 | 可在目录下**新建、重命名、删除文件**（即使对该文件本身无写权限！） |\n| `x (1)` | 可作为程序执行 | 可 `cd` 进入该目录并访问其下文件元数据 |\n\n## 2. 常见标准权限基线\n- **SSH 私钥（`~/.ssh/id_ed25519`）**：必须为 `600`（`rw-------`），权限过宽会被 `ssh` 直接拒绝使用。\n- **普通配置/代码文件**：`644`；**可执行脚本与目录**：`755`。\n- **绝不随手 `chmod -R 777`**：这相当于把所有文件的修改权和执行权交给系统里任意低权限账户与被攻破的 Web 进程。",
+    "knowledgePoints": [
+      "lx-kp-0028",
+      "lx-kp-0029",
+      "lx-kp-0030"
+    ],
+    "estimatedMinutes": 35
   },
   {
     "id": "mod-linux-shell-l-2",
     "courseId": "mod-linux-shell-c-1",
     "order": 2,
-    "title": "Linux 与 Shell 基础 配置文件覆盖与属性解析",
+    "title": "日志分析三剑客：grep、sed、awk 与管道组合",
     "slug": "lesson-1-2",
-    "summary": "学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
-    "contentMarkdown": "# Linux 与 Shell 基础 配置文件覆盖与属性解析\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 配置文件覆盖与属性解析` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "用一行管道命令在 3 秒内统计 Nginx/应用日志中 Top 10 报错接口、5xx 状态码占比与慢请求分布。",
+    "contentMarkdown": "# 日志分析三剑客：grep、sed、awk 与管道组合\n\n## 1. 三剑客核心分工\n- **`grep`（快速过滤行）**：支持 `-E` 扩展正则、`-i` 忽略大小写、`-C 3` 显示匹配行前后 3 行上下文、`-v` 反向排除。\n- **`sed`（流式行编辑）**：擅长按行号截取日志区间（`sed -n '100,200p'`）与正则批量替换。\n- **`awk`（列处理与聚合统计）**：按分隔符拆列（`$1`、`$NF`），天生适合做分组求和、求 Top-N 与均值。\n\n## 2. 线上高频日志统计一行流\n```bash\n# 统计 Nginx access.log 中返回 5xx 的 Top 10 请求路径\nawk '$9 ~ /^5/ { count[$7]++ } END { for (p in count) print count[p], p }' access.log | sort -rn | head -n 10\n\n# 统计每个 HTTP 状态码出现次数\nawk '{ print $9 }' access.log | sort | uniq -c | sort -rn\n```",
+    "knowledgePoints": [
+      "lx-kp-0022",
+      "lx-kp-0023",
+      "lx-kp-0024"
+    ],
+    "estimatedMinutes": 40
   },
   {
     "id": "mod-linux-shell-l-3",
     "courseId": "mod-linux-shell-c-2",
     "order": 1,
-    "title": "Linux 与 Shell 基础 API 接口规范与数据通信",
+    "title": "写出不翻车的生产级 Bash：严格模式与安全引号",
     "slug": "lesson-2-1",
-    "summary": "掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
-    "contentMarkdown": "# Linux 与 Shell 基础 API 接口规范与数据通信\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 API 接口规范与数据通信` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "用 `set -euo pipefail`、`\"$var\"` 双引号保护与 `trap` 清理钩子，消除 Shell 脚本最常见的静默失败与误删灾难。",
+    "contentMarkdown": "# 写出不翻车的生产级 Bash：严格模式与安全引号\n\n## 1. 所有生产 Shell 脚本必加的头部模板\n默认情况下，Bash 遇到命令报错或未定义变量仍会继续往下跑（比如 `rm -rf $BUILD_DIR/*` 在变量为空时直接酿成大祸）。标准起手式：\n\n```bash\n#!/usr/bin/env bash\nset -euo pipefail\n\nTMP_DIR=\"$(mktemp -d)\"\ncleanup() {\n  rm -rf \"$TMP_DIR\"\n}\ntrap cleanup EXIT\n\n# 变量始终用双引号包裹，防止含空格文件名被拆词\nTARGET_FILE=\"${1:?用法: $0 <target_file>}\"\necho \"处理文件: $TARGET_FILE\"\n```\n\n- **`-e`**：任意命令返回非零退出码立即中止；\n- **`-u`**：引用未定义变量立即报错退出；\n- **`-o pipefail`**：管道中任意一级失败，整条管道即返回失败码；\n- **`trap cleanup EXIT`**：无论脚本正常结束、报错还是被中断，都保证清理临时文件。",
+    "knowledgePoints": [
+      "lx-kp-0004",
+      "lx-kp-0003",
+      "lx-kp-0045"
+    ],
+    "estimatedMinutes": 40
   },
   {
     "id": "mod-linux-shell-l-4",
     "courseId": "mod-linux-shell-c-2",
     "order": 2,
-    "title": "Linux 与 Shell 基础 核心控制器与数据校验机制",
+    "title": "重定向、xargs 并发与自动化定时任务",
     "slug": "lesson-2-2",
-    "summary": "掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
-    "contentMarkdown": "# Linux 与 Shell 基础 核心控制器与数据校验机制\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 核心控制器与数据校验机制` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "分清 `2>&1` 顺序含义、用 `find -print0 | xargs -0 -P` 安全并发批处理文件，以及用 `flock` 防止定时任务重叠执行。",
+    "contentMarkdown": "# 重定向、xargs 并发与自动化定时任务\n\n## 1. 标准流与 `2>&1` 的正确顺序\nLinux 进程默认打开三个文件描述符：`0`（stdin）、`1`（stdout）、`2`（stderr）。将标准错误合并到标准输出写入日志必须写成 **`cmd > app.log 2>&1`**（先改 `1` 指向文件，再把 `2` 复制指向 `1`），顺序写反会导致 stderr 仍打在屏幕上。\n\n## 2. 安全并发批处理与防重入定时任务\n```bash\n# 安全处理带空格文件名，并开启 4 个并发压缩旧日志\nfind /var/log/app -name \"*.log\" -mtime +7 -print0 | xargs -0 -n 1 -P 4 gzip\n\n# crontab 中用 flock -n 文件锁防止上一次任务未跑完时重复启动\n*/5 * * * * /usr/bin/flock -n /tmp/sync.lock /opt/scripts/sync.sh >> /var/log/sync.log 2>&1\n```",
+    "knowledgePoints": [
+      "lx-kp-0054",
+      "lx-kp-0053",
+      "lx-kp-0060"
+    ],
+    "estimatedMinutes": 35
   },
   {
     "id": "mod-linux-shell-l-5",
     "courseId": "mod-linux-shell-c-3",
     "order": 1,
-    "title": "Linux 与 Shell 基础 缓存优化与垃圾回收调优",
+    "title": "进程信号与自定义 systemd 守护服务",
     "slug": "lesson-3-1",
-    "summary": "定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
-    "contentMarkdown": "# Linux 与 Shell 基础 缓存优化与垃圾回收调优\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 缓存优化与垃圾回收调优` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "理解 `SIGTERM (15)` 与 `SIGKILL (9)` 的区别，手写带自动重启、资源限制与 journald 日志的 systemd Unit。",
+    "contentMarkdown": "# 进程信号与自定义 systemd 守护服务\n\n## 1. 常用信号速查\n- **`SIGTERM (15)`（`kill PID` 默认）**：礼貌通知进程优雅退出（保存状态、关闭连接池），**永远优先使用**。\n- **`SIGKILL (9)`（`kill -9 PID`）**：内核直接强杀，进程无权捕获也来不及清理，仅在进程彻底卡死时兜底。\n- **`SIGHUP (1)`**：常被 Nginx 等守护进程用作“不中断服务热重载配置”。\n\n## 2. 生产级 `systemd` Service 模板\n告别脆弱的 `nohup ... &`，用 `systemd` 托管守护进程可获得开机自启、崩溃自动拉起与统一日志查询（`journalctl -u myapi -f`）：\n\n```ini\n[Unit]\nDescription=My Backend API Service\nAfter=network-online.target\n\n[Service]\nType=simple\nUser=appuser\nWorkingDirectory=/opt/myapi\nExecStart=/opt/myapi/server\nRestart=on-failure\nRestartSec=3s\nLimitNOFILE=65535\n\n[Install]\nWantedBy=multi-user.target\n```",
+    "knowledgePoints": [
+      "lx-kp-0036",
+      "lx-kp-0037",
+      "lx-kp-0038"
+    ],
+    "estimatedMinutes": 40
   },
   {
     "id": "mod-linux-shell-l-6",
     "courseId": "mod-linux-shell-c-3",
     "order": 2,
-    "title": "Linux 与 Shell 基础 可观测性日志与分布式链路监控",
+    "title": "SSH 密钥体系、跳板机 ProxyJump 与端口转发",
     "slug": "lesson-3-2",
-    "summary": "配置全局日志收集管道，分析高负载服务下的运行指标波动。",
-    "contentMarkdown": "# Linux 与 Shell 基础 可观测性日志与分布式链路监控\n          \n## 1. 概述与背景\n在进行 `Linux 与 Shell 基础` 的开发实践中，`Linux 与 Shell 基础 可观测性日志与分布式链路监控` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// Linux 与 Shell 基础 生产实践示例\nconsole.log(\"Initializing Linux 与 Shell 基础 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "配置 Ed25519 免密登录与 `~/.ssh/config` 跳板机直连，用本地端口转发安全访问内网数据库而无需暴露公网端口。",
+    "contentMarkdown": "# SSH 密钥体系、跳板机 ProxyJump 与端口转发\n\n## 1. 用 `~/.ssh/config` 优雅管理多台服务器与跳板机\n相比每次敲一长串 IP 和私钥路径，在 `~/.ssh/config` 中配置别名与 `ProxyJump` 可实现一步直达内网主机：\n\n```sshconfig\nHost bastion\n  HostName bastion.example.com\n  User ops\n  IdentityFile ~/.ssh/id_ed25519\n\nHost prod-db\n  HostName 10.0.2.15\n  User ops\n  ProxyJump bastion\n```\n\n## 2. SSH 本地端口转发（安全访问内网服务）\n内网数据库绝不应直接开放公网端口。通过 SSH 隧道临时把内网 5432 映射到本机 15432，全程加密且退出即断：\n```bash\nssh -N -L 15432:10.0.2.15:5432 bastion\n```",
+    "knowledgePoints": [
+      "lx-kp-0055"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "mod-linux-shell-l-7",
+    "courseId": "mod-linux-shell-c-4",
+    "order": 1,
+    "title": "Linux 性能排查 60 秒黄金命令流（CPU / 内存 / Load）",
+    "slug": "lesson-4-1",
+    "summary": "读懂 Load Average 与 CPU 使用率的关系（高 Load 低 CPU 往往是 IO 等待），按标准顺序 1 分钟锁定瓶颈维度。",
+    "contentMarkdown": "# Linux 性能排查 60 秒黄金命令流（CPU / 内存 / Load）\n\n## 1. 一分钟快速定位瓶颈顺序\n1. **`uptime`**：看 1/5/15 分钟 **Load Average**。如果 4 核机器 Load 飙到 12，说明队列严重积压。\n2. **`dmesg -T | tail`**：第一时间检查内核是否刚触发过 **OOM Killer** 或硬件/网络报错。\n3. **`vmstat 1`**：每秒刷新看全局趋势——`us` 高是用户代码吃 CPU、`sy` 高是系统调用/锁竞争激烈、`wa` 高是磁盘 IO 瓶颈、`cs` 高是上下文切换风暴。\n4. **`free -h`**：重点看 **`available`**（可用内存）而不是 `free`（Linux 会把空闲内存积极用作 `buff/cache` 加速文件读取，需要时自动回收）。\n5. **`pidstat -u -d 1`**：精准揪出最耗 CPU 或磁盘读写的具体进程 PID。",
+    "knowledgePoints": [
+      "lx-kp-0035",
+      "lx-kp-0039",
+      "lx-kp-0034"
+    ],
+    "estimatedMinutes": 40,
+    "practiceQuestionIds": [
+      "mod-linux-shell-q-25"
+    ]
+  },
+  {
+    "id": "mod-linux-shell-l-8",
+    "courseId": "mod-linux-shell-c-4",
+    "order": 2,
+    "title": "磁盘满、Inode 耗尽与端口占用经典排障",
+    "slug": "lesson-4-2",
+    "summary": "解决“删了大日志但 `df -h` 空间没释放”、“空间还剩 50% 却报 No space left on device”以及快速查端口进程。",
+    "contentMarkdown": "# 磁盘满、Inode 耗尽与端口占用经典排障\n\n## 1. 两个最经典的磁盘“灵异现象”\n- **现象一：明明 `rm` 删掉了 50GB 大日志，`df -h` 却依然 100%！**\n  原因：进程还持有该文件的打开句柄（FD），文件数据块要等进程关闭 FD 后才真正释放。用 **`lsof +L1`**（或 `lsof | grep deleted`）找到占用进程，重启或让它 reopen 日志即可；在线清空日志应使用 `truncate -s 0 app.log` 而非直接 `rm`。\n- **现象二：`df -h` 显示还有 50% 空间，却报 `No space left on device`！**\n  原因：海量小文件把 **Inode 号耗尽了**！用 **`df -i`** 检查 `IUse%` 是否达到 100%，定位小文件目录分批清理。\n\n## 2. 端口与连接状态速查（用 `ss` 替代旧 `netstat`）\n```bash\nss -tulpn                 # 查看所有正在监听的 TCP/UDP 端口及对应进程\nss -s                     # 汇总各状态 TCP 连接总数（ESTAB / TIME-WAIT 等）\ndu -xh --max-depth=1 /var # 快速定位占用磁盘最多的目录\n```",
+    "knowledgePoints": [
+      "lx-kp-0040",
+      "lx-kp-0041",
+      "lx-kp-0059"
+    ],
+    "estimatedMinutes": 40,
+    "practiceQuestionIds": [
+      "mod-linux-shell-q-26"
+    ]
   }
 ]

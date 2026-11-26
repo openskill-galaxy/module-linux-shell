@@ -618,7 +618,8 @@
     "description": "Linux标签：passwd",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "passwd"
+    "slug": "passwd-lx-tag-069",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-070",
@@ -1221,7 +1222,8 @@
     "description": "Linux标签：wget",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "wget"
+    "slug": "wget-lx-tag-136",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-137",
@@ -1230,7 +1232,8 @@
     "description": "Linux标签：curl",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "curl"
+    "slug": "curl-lx-tag-137",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-138",
@@ -1455,7 +1458,8 @@
     "description": "Linux标签：journalctl",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "journalctl"
+    "slug": "journalctl-lx-tag-162",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-163",
@@ -1689,7 +1693,8 @@
     "description": "Linux标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-lx-tag-188",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-189",
@@ -2778,7 +2783,8 @@
     "description": "Linux标签:Linux深入概念1",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念1"
+    "slug": "linux深入概念1",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-310",
@@ -2787,7 +2793,8 @@
     "description": "Linux标签:Linux深入概念2",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念2"
+    "slug": "linux深入概念2",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-311",
@@ -2796,7 +2803,8 @@
     "description": "Linux标签:Linux深入概念3",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念3"
+    "slug": "linux深入概念3",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-312",
@@ -2805,7 +2813,8 @@
     "description": "Linux标签:Linux深入概念4",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念4"
+    "slug": "linux深入概念4",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-313",
@@ -2814,7 +2823,8 @@
     "description": "Linux标签:Linux深入概念5",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念5"
+    "slug": "linux深入概念5",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-314",
@@ -2823,7 +2833,8 @@
     "description": "Linux标签:Linux深入概念6",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念6"
+    "slug": "linux深入概念6",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-315",
@@ -2832,7 +2843,8 @@
     "description": "Linux标签:Linux深入概念7",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念7"
+    "slug": "linux深入概念7",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-316",
@@ -2841,7 +2853,8 @@
     "description": "Linux标签:Linux深入概念8",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念8"
+    "slug": "linux深入概念8",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-317",
@@ -2850,7 +2863,8 @@
     "description": "Linux标签:Linux深入概念9",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念9"
+    "slug": "linux深入概念9",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-318",
@@ -2859,7 +2873,8 @@
     "description": "Linux标签:Linux深入概念10",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念10"
+    "slug": "linux深入概念10",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-319",
@@ -2868,7 +2883,8 @@
     "description": "Linux标签:Linux深入概念11",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念11"
+    "slug": "linux深入概念11",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-320",
@@ -2877,7 +2893,8 @@
     "description": "Linux标签:Linux深入概念12",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念12"
+    "slug": "linux深入概念12",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-321",
@@ -2886,7 +2903,8 @@
     "description": "Linux标签:Linux深入概念13",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念13"
+    "slug": "linux深入概念13",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-322",
@@ -2895,7 +2913,8 @@
     "description": "Linux标签:Linux深入概念14",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念14"
+    "slug": "linux深入概念14",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-323",
@@ -2904,7 +2923,8 @@
     "description": "Linux标签:Linux深入概念15",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念15"
+    "slug": "linux深入概念15",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-324",
@@ -2913,7 +2933,8 @@
     "description": "Linux标签:Linux深入概念16",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念16"
+    "slug": "linux深入概念16",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-325",
@@ -2922,7 +2943,8 @@
     "description": "Linux标签:Linux深入概念17",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念17"
+    "slug": "linux深入概念17",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-326",
@@ -2931,7 +2953,8 @@
     "description": "Linux标签:Linux深入概念18",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念18"
+    "slug": "linux深入概念18",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-327",
@@ -2940,7 +2963,8 @@
     "description": "Linux标签:Linux深入概念19",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念19"
+    "slug": "linux深入概念19",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-328",
@@ -2949,7 +2973,8 @@
     "description": "Linux标签:Linux深入概念20",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念20"
+    "slug": "linux深入概念20",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-329",
@@ -2958,7 +2983,8 @@
     "description": "Linux标签:Linux深入概念21",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念21"
+    "slug": "linux深入概念21",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-330",
@@ -2967,7 +2993,8 @@
     "description": "Linux标签:Linux深入概念22",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念22"
+    "slug": "linux深入概念22",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-331",
@@ -2976,7 +3003,8 @@
     "description": "Linux标签:Linux深入概念23",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念23"
+    "slug": "linux深入概念23",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-332",
@@ -2985,7 +3013,8 @@
     "description": "Linux标签:Linux深入概念24",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念24"
+    "slug": "linux深入概念24",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-333",
@@ -2994,7 +3023,8 @@
     "description": "Linux标签:Linux深入概念25",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念25"
+    "slug": "linux深入概念25",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-334",
@@ -3003,7 +3033,8 @@
     "description": "Linux标签:Linux深入概念26",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念26"
+    "slug": "linux深入概念26",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-335",
@@ -3012,7 +3043,8 @@
     "description": "Linux标签:Linux深入概念27",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念27"
+    "slug": "linux深入概念27",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-336",
@@ -3021,7 +3053,8 @@
     "description": "Linux标签:Linux深入概念28",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念28"
+    "slug": "linux深入概念28",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-337",
@@ -3030,7 +3063,8 @@
     "description": "Linux标签:Linux深入概念29",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念29"
+    "slug": "linux深入概念29",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-338",
@@ -3039,7 +3073,8 @@
     "description": "Linux标签:Linux深入概念30",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念30"
+    "slug": "linux深入概念30",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-339",
@@ -3048,7 +3083,8 @@
     "description": "Linux标签:Linux深入概念31",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念31"
+    "slug": "linux深入概念31",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-340",
@@ -3057,7 +3093,8 @@
     "description": "Linux标签:Linux深入概念32",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念32"
+    "slug": "linux深入概念32",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-341",
@@ -3066,7 +3103,8 @@
     "description": "Linux标签:Linux深入概念33",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念33"
+    "slug": "linux深入概念33",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-342",
@@ -3075,7 +3113,8 @@
     "description": "Linux标签:Linux深入概念34",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念34"
+    "slug": "linux深入概念34",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-343",
@@ -3084,7 +3123,8 @@
     "description": "Linux标签:Linux深入概念35",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念35"
+    "slug": "linux深入概念35",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-344",
@@ -3093,7 +3133,8 @@
     "description": "Linux标签:Linux深入概念36",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念36"
+    "slug": "linux深入概念36",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-345",
@@ -3102,7 +3143,8 @@
     "description": "Linux标签:Linux深入概念37",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念37"
+    "slug": "linux深入概念37",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-346",
@@ -3111,7 +3153,8 @@
     "description": "Linux标签:Linux深入概念38",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念38"
+    "slug": "linux深入概念38",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-347",
@@ -3120,7 +3163,8 @@
     "description": "Linux标签:Linux深入概念39",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念39"
+    "slug": "linux深入概念39",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-348",
@@ -3129,7 +3173,8 @@
     "description": "Linux标签:Linux深入概念40",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念40"
+    "slug": "linux深入概念40",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-349",
@@ -3138,7 +3183,8 @@
     "description": "Linux标签:Linux深入概念41",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念41"
+    "slug": "linux深入概念41",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-350",
@@ -3147,7 +3193,8 @@
     "description": "Linux标签:Linux深入概念42",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念42"
+    "slug": "linux深入概念42",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-351",
@@ -3156,7 +3203,8 @@
     "description": "Linux标签:Linux深入概念43",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念43"
+    "slug": "linux深入概念43",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-352",
@@ -3165,7 +3213,8 @@
     "description": "Linux标签:Linux深入概念44",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念44"
+    "slug": "linux深入概念44",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-353",
@@ -3174,7 +3223,8 @@
     "description": "Linux标签:Linux深入概念45",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念45"
+    "slug": "linux深入概念45",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-354",
@@ -3183,7 +3233,8 @@
     "description": "Linux标签:Linux深入概念46",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念46"
+    "slug": "linux深入概念46",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-355",
@@ -3192,7 +3243,8 @@
     "description": "Linux标签:Linux深入概念47",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念47"
+    "slug": "linux深入概念47",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-356",
@@ -3201,7 +3253,8 @@
     "description": "Linux标签:Linux深入概念48",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念48"
+    "slug": "linux深入概念48",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-357",
@@ -3210,7 +3263,8 @@
     "description": "Linux标签:Linux深入概念49",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念49"
+    "slug": "linux深入概念49",
+    "editorialStatus": "draft"
   },
   {
     "id": "lx-tag-358",
@@ -3219,6 +3273,7 @@
     "description": "Linux标签:Linux深入概念50",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "linux深入概念50"
+    "slug": "linux深入概念50",
+    "editorialStatus": "draft"
   }
 ]

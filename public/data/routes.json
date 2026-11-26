@@ -2,79 +2,100 @@
   {
     "id": "mod-linux-shell-route-1",
     "slug": "professional-path",
-    "title": "Linux 与 Shell 基础 专业级成长路线",
-    "summary": "带您由浅入深、由原理到实战系统通关 Linux 与 Shell 基础 核心要点。",
+    "title": "Linux 系统运维与 Shell 工程化完整路线",
+    "summary": "从权限模型与日志三剑客、严格模式 Bash 脚本、systemd 与 SSH 隧道，到 60 秒性能排查与磁盘/端口排障的完整路径。",
     "steps": [
       {
         "order": 1,
-        "title": "Linux 与 Shell 基础 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "Linux 目录结构、权限位与最小权限规范",
+        "description": "理清文件与目录权限差异，建立安全权限基线。",
         "courseId": "mod-linux-shell-c-1",
         "lessonId": "mod-linux-shell-l-1"
       },
       {
         "order": 2,
-        "title": "Linux 与 Shell 基础 配置文件覆盖与属性解析",
-        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "title": "日志分析三剑客：grep、sed、awk 与管道组合",
+        "description": "熟练用管道一行流秒级分析 GB 级线上日志。",
         "courseId": "mod-linux-shell-c-1",
         "lessonId": "mod-linux-shell-l-2"
       },
       {
         "order": 3,
-        "title": "Linux 与 Shell 基础 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "写出不翻车的生产级 Bash：严格模式与安全引号",
+        "description": "掌握 set -euo pipefail 与 trap 资源自动清理。",
         "courseId": "mod-linux-shell-c-2",
         "lessonId": "mod-linux-shell-l-3"
       },
       {
         "order": 4,
-        "title": "Linux 与 Shell 基础 核心控制器与数据校验机制",
-        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "title": "重定向、xargs 并发与自动化定时任务",
+        "description": "掌握 2>&1 顺序、并发批处理与 flock 防重入。",
         "courseId": "mod-linux-shell-c-2",
         "lessonId": "mod-linux-shell-l-4"
       },
       {
         "order": 5,
-        "title": "Linux 与 Shell 基础 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "进程信号与自定义 systemd 守护服务",
+        "description": "用 systemd 与 journalctl 规范托管线上守护进程。",
         "courseId": "mod-linux-shell-c-3",
         "lessonId": "mod-linux-shell-l-5"
       },
       {
         "order": 6,
-        "title": "Linux 与 Shell 基础 可观测性日志与分布式链路监控",
-        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "title": "SSH 密钥体系、跳板机 ProxyJump 与端口转发",
+        "description": "配置安全高效的免密登录、跳板直连与内网隧道。",
         "courseId": "mod-linux-shell-c-3",
         "lessonId": "mod-linux-shell-l-6"
+      },
+      {
+        "order": 7,
+        "title": "Linux 性能排查 60 秒黄金命令流（CPU / 内存 / Load）",
+        "description": "用 uptime/dmesg/vmstat/free/pidstat 迅速定位瓶颈。",
+        "courseId": "mod-linux-shell-c-4",
+        "lessonId": "mod-linux-shell-l-7"
+      },
+      {
+        "order": 8,
+        "title": "磁盘满、Inode 耗尽与端口占用经典排障",
+        "description": "秒解已删文件占空间、Inode 满与 ss 端口排查。",
+        "courseId": "mod-linux-shell-c-4",
+        "lessonId": "mod-linux-shell-l-8"
       }
     ]
   },
   {
     "id": "mod-linux-shell-route-2",
     "slug": "quick-start-path",
-    "title": "Linux 与 Shell 基础 快速通关极速路线",
-    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "title": "研发日常高频 Linux 排障 4 课速成路线",
+    "summary": "精选研发日常最常遇到的日志分析、安全 Bash 脚本、性能排查与磁盘/端口排障 4 节实战课。",
     "steps": [
       {
         "order": 1,
-        "title": "Linux 与 Shell 基础 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "日志分析三剑客：grep、sed、awk 与管道组合",
+        "description": "快速统计报错接口与状态码分布。",
         "courseId": "mod-linux-shell-c-1",
-        "lessonId": "mod-linux-shell-l-1"
+        "lessonId": "mod-linux-shell-l-2"
       },
       {
-        "order": 3,
-        "title": "Linux 与 Shell 基础 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "order": 2,
+        "title": "写出不翻车的生产级 Bash：严格模式与安全引号",
+        "description": "杜绝自动化脚本静默失败与误操作。",
         "courseId": "mod-linux-shell-c-2",
         "lessonId": "mod-linux-shell-l-3"
       },
       {
-        "order": 5,
-        "title": "Linux 与 Shell 基础 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
-        "courseId": "mod-linux-shell-c-3",
-        "lessonId": "mod-linux-shell-l-5"
+        "order": 3,
+        "title": "Linux 性能排查 60 秒黄金命令流（CPU / 内存 / Load）",
+        "description": "线上机器变慢或 OOM 时的标准第一步。",
+        "courseId": "mod-linux-shell-c-4",
+        "lessonId": "mod-linux-shell-l-7"
+      },
+      {
+        "order": 4,
+        "title": "磁盘满、Inode 耗尽与端口占用经典排障",
+        "description": "解决高频磁盘与端口异常。",
+        "courseId": "mod-linux-shell-c-4",
+        "lessonId": "mod-linux-shell-l-8"
       }
     ]
   }

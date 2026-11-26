@@ -1,71 +1,78 @@
 [
   {
     "id": "mod-linux-shell-c-1",
-    "title": "Linux 与 Shell 基础 架构原理与初始化",
+    "title": "Linux 文件系统、权限模型与文本三剑客",
     "slug": "course-1",
-    "summary": "深度探索 Linux 与 Shell 基础 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "掌握目录树结构、rwx/chmod/chown 与 SUID 权限边界，熟练使用 grep/sed/awk + 管道高效分析 GB 级日志。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 47,
+    "estimatedHours": 8,
     "lessons": [
       "mod-linux-shell-l-1",
       "mod-linux-shell-l-2"
     ],
     "tags": [
-      "Linux",
-      "Ubuntu",
-      "Shell",
-      "Bash",
-      "命令行",
-      "权限",
-      "进程",
-      "自动化脚本"
+      "Linux权限",
+      "grep",
+      "awk",
+      "sed"
     ]
   },
   {
     "id": "mod-linux-shell-c-2",
-    "title": "Linux 与 Shell 基础 核心机制与开发实战",
+    "title": "Shell 健壮脚本工程与自动化运维",
     "slug": "course-2",
-    "summary": "掌握 Linux 与 Shell 基础 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "掌握 Bash 严格模式（set -euo pipefail）、安全引号与数组处理、trap 清理钩子以及 cron/systemd 定时任务。",
     "order": 2,
-    "difficulty": "easy",
-    "estimatedHours": 47,
+    "difficulty": "medium",
+    "estimatedHours": 10,
     "lessons": [
       "mod-linux-shell-l-3",
       "mod-linux-shell-l-4"
     ],
     "tags": [
-      "Linux",
-      "Ubuntu",
-      "Shell",
-      "Bash",
-      "命令行",
-      "权限",
-      "进程",
-      "自动化脚本"
+      "Bash严格模式",
+      "trap",
+      "systemd",
+      "Shell脚本"
     ]
   },
   {
     "id": "mod-linux-shell-c-3",
-    "title": "Linux 与 Shell 基础 高级优化与生产部署",
+    "title": "进程管理、systemd 服务与 SSH 安全访问",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "精通信号（SIGTERM/SIGKILL/SIGHUP）、编写自定义 systemd Unit 服务，以及 SSH 密钥登录与端口转发隧道。",
     "order": 3,
-    "difficulty": "easy",
-    "estimatedHours": 47,
+    "difficulty": "medium",
+    "estimatedHours": 10,
     "lessons": [
       "mod-linux-shell-l-5",
       "mod-linux-shell-l-6"
     ],
     "tags": [
-      "Linux",
-      "Ubuntu",
-      "Shell",
-      "Bash",
-      "命令行",
-      "权限",
-      "进程",
-      "自动化脚本"
+      "systemd",
+      "进程信号",
+      "SSH隧道",
+      "安全加固"
+    ]
+  },
+  {
+    "id": "mod-linux-shell-c-4",
+    "title": "Linux 线上性能排查与磁盘/网络诊断",
+    "slug": "course-4",
+    "summary": "建立 CPU、内存、磁盘 IO 与网络四维排查体系，快速定位 Load 飙高、Inode 耗尽、已删文件占空间与端口占用。",
+    "order": 4,
+    "difficulty": "hard",
+    "estimatedHours": 12,
+    "lessons": [
+      "mod-linux-shell-l-7",
+      "mod-linux-shell-l-8"
+    ],
+    "tags": [
+      "性能排查",
+      "Load Average",
+      "磁盘IO",
+      "ss与lsof"
     ]
   }
 ]
